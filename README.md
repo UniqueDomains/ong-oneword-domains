@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .ong one-word domains from Unique 
 
 **Public extract:** 9,600 rows · **Live catalog:** 9,600 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/ong`  
 **Best for:** founders, investors, studios
 
@@ -80,7 +80,7 @@ print(df.head())
 | security.ong   | premium   | $3,250    | $1,625        | 70             | 49     | 8      | namecheap                   |
 | live.ong       | available | $16.99    | $16.99        | 108            | 55     | 4      | name.com                    |
 | law.ong        | premium   | $65       | $32.50        | 82             | 46     | 3      | namecheap                   |
-| alpha.ong      | available | $16.99    | $16.99        | 90             | 54     | 5      | name.com                    |
+| alpha.ong      | available | $16.99    | $16.99        | 90             | 53     | 5      | name.com                    |
 | unity.ong      | premium   | $3,125    | $1,562.50     | 70             | 40     | 5      | name.com                    |
 | fast.ong       | available | $16.99    | $16.99        | 82             | 53     | 4      | name.com                    |
 | learning.ong   | premium   | $65       | $32.50        | 76             | 39     | 8      | namecheap                   |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ONG One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ONG One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
