@@ -81,7 +81,7 @@ print(df.head())
 | prompts.ong      | available | $16.99    | —             | 54             | 39     | 7      | name.com  |
 | meals.ong        | premium   | $625      | —             | 68             | 15     | 5      | name.com  |
 | stories.ong      | available | $16.99    | —             | 58             | 36     | 7      | name.com  |
-| appreciation.ong | premium   | $62.50    | —             | 88             | 13     | 12     | name.com  |
+| appreciation.ong | premium   | $62.50    | —             | 88             | 14     | 12     | name.com  |
 | aliens.ong       | available | $16.99    | —             | 56             | 35     | 6      | name.com  |
 | seas.ong         | premium   | $625      | —             | 58             | 13     | 4      | name.com  |
 
