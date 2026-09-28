@@ -1,13 +1,13 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 dfa65f60-8eee-4f74-978a-63fcb79fb539,similitude.ong,available,18.98,24.98,medium,low,10,namecheap,,,18/09/2026 07:51
 a71bce7d-6939-4552-894d-28b4d3e3d824,unseeable.ong,available,16.99,16.99,medium,low,9,name.com,,,22/08/2026 09:08
-d6aa5317-ff12-4bd3-9a4a-e019d90592c1,dinky.ong,available,16.99,16.99,high,low,5,name.com,,,14/08/2026 08:14
+d6aa5317-ff12-4bd3-9a4a-e019d90592c1,dinky.ong,available,16.99,16.99,medium,low,5,name.com,,,14/08/2026 08:14
 b146ce30-f685-4393-8c4b-a800a9f7b437,radiantly.ong,available,18.98,24.98,medium,low,9,namecheap,,,15/09/2026 22:18
 0ce26da1-f600-49cc-9eae-ede591639e20,flatfoot.ong,available,18.98,24.98,medium,low,8,namecheap,,,10/09/2026 16:10
 ee6b08c9-f87e-4f07-a144-67d15a8b32da,gulf.ong,available,16.99,,high,low,4,name.com,,,
 77daf2a6-2ac8-42d2-8d04-eb16b803390e,kelvin.ong,available,16.99,16.99,high,low,6,name.com,,,22/08/2026 15:02
 2757916c-bd48-4693-ba0b-47a2ebb77b54,offish.ong,available,18.98,24.98,low,low,6,namecheap,,,04/09/2026 01:35
-80627ebf-bcee-4bf2-add5-ac2c96a10006,calciferol.ong,available,16.99,16.99,high,low,10,name.com,,,13/08/2026 15:07
+80627ebf-bcee-4bf2-add5-ac2c96a10006,calciferol.ong,available,16.99,16.99,medium,low,10,name.com,,,13/08/2026 15:07
 53ba80e6-b16f-4e69-86a6-5732645b65c5,happen.ong,available,18.98,24.98,high,low,6,namecheap,,,25/09/2026 06:00
 1ea6448d-178a-47b0-9976-7e80770eda70,cerebellar.ong,available,16.99,16.99,medium,low,10,name.com,,,12/08/2026 00:28
 8e15b662-9fd3-432e-8d48-ffa2622b61d2,humoral.ong,available,16.99,16.99,medium,low,7,name.com,,,21/08/2026 15:21
@@ -46,7 +46,7 @@ af18efc8-7846-46f1-9388-ca556c32019f,rental.ong,available,18.98,24.98,high,low,6
 21628436-205a-49d1-b8d2-eb568c5e858d,specialized.ong,available,16.99,,high,low,11,name.com,,,
 d597312d-4a0d-4755-832a-193d064e70cf,dextrous.ong,available,16.99,16.99,high,low,8,name.com,,,13/08/2026 23:53
 40860702-635d-4849-a758-85a9fc13e818,anchorman.ong,available,18.98,24.98,high,low,9,namecheap,,,19/09/2026 03:46
-0f9b1bfe-f3ea-466b-a1b2-3d6a0e0541c1,sul.ong,available,18.98,24.98,high,low,3,namecheap,,,27/09/2026 10:19
+0f9b1bfe-f3ea-466b-a1b2-3d6a0e0541c1,sul.ong,available,18.98,24.98,medium,low,3,namecheap,,,27/09/2026 10:19
 f886fe93-3b60-44c7-809b-f33cfc6ca63c,language.ong,premium,65,32.5,high,low,8,namecheap,,,25/09/2026 15:54
 837ea59a-c3c9-4add-b9ac-2e567d84e765,nepali.ong,available,18.98,24.98,high,low,6,namecheap,,,03/09/2026 15:37
 e2bdfea2-47cc-4ff7-8ca7-bf4008270e3a,kurrat.ong,available,18.98,24.98,medium,low,6,namecheap,,,18/09/2026 11:14
@@ -56,10 +56,10 @@ e1076198-0ea7-42bd-8d26-71ee69655686,hierarch.ong,available,18.98,24.98,medium,l
 9c294b4b-f1f1-42ff-84da-3b707a278e51,herds.ong,available,18.98,24.98,medium,low,5,namecheap,,,19/09/2026 20:40
 59deb93b-34f1-4f82-8eaa-767aff141e9a,check.ong,premium,65,32.5,high,medium,5,namecheap,,,04/09/2026 07:44
 91af010d-d6a5-4aef-afec-a8461df0140c,arbovirus.ong,available,18.98,24.98,medium,low,9,namecheap,,,20/09/2026 00:52
-c9e404f7-f1e1-4a5b-aa91-00dcd904cede,quash.ong,available,18.98,24.98,high,low,5,namecheap,,,13/09/2026 06:42
+c9e404f7-f1e1-4a5b-aa91-00dcd904cede,quash.ong,available,18.98,24.98,medium,low,5,namecheap,,,13/09/2026 06:42
 2812002e-7fc2-4713-a919-258886fd7e6f,powerless.ong,available,18.98,24.98,high,medium,9,namecheap,,,09/09/2026 00:56
 d360c785-0683-44ee-bc0d-0e4d795b8d40,conway.ong,available,18.98,24.98,high,low,6,namecheap,,,25/09/2026 21:36
-a5b8e937-cd37-4377-940d-cb3fccef57b8,aliquot.ong,available,16.99,16.99,high,low,7,name.com,,,
+a5b8e937-cd37-4377-940d-cb3fccef57b8,aliquot.ong,available,16.99,16.99,medium,low,7,name.com,,,
 ac66b49d-01d8-4d10-977e-c6e99a3e2f53,berlioz.ong,available,18.98,24.98,medium,low,7,namecheap,,,23/09/2026 09:39
 eec12d80-78da-4241-9517-c43166541d69,edirne.ong,available,18.98,24.98,medium,low,6,namecheap,,,17/09/2026 10:01
 50c6fa96-5952-46e5-aefd-063bf7783d89,aramus.ong,available,18.98,24.98,medium,low,6,namecheap,,,19/09/2026 23:57
@@ -72,6 +72,7 @@ cdda68cf-09b3-4e3b-90c9-a0088ef7fcf7,awkward.ong,available,18.98,24.98,high,low,
 97ed068a-385a-47dd-b2ca-97d34675e6ad,facial.ong,available,16.99,16.99,high,low,6,name.com,,,17/08/2026 20:25
 0e5d29ad-8d6c-4a73-b51e-8e67772e500d,devoting.ong,available,18.98,24.98,medium,low,8,namecheap,,,17/09/2026 17:04
 ecd6c3eb-7931-46a3-ad71-55f32c845937,exhausted.ong,available,16.99,16.99,medium,low,9,name.com,,,14/08/2026 14:43
+12b09ac1-6f42-4965-a260-af8ffd6f0b94,buren.ong,available,15.2,15.2,medium,low,5,cloudflare,,,27/09/2026 20:26
 e511f6da-029c-4484-8490-dbcf31c3fc97,appointed.ong,available,16.99,16.99,high,low,9,name.com,,,06/08/2026 07:21
 cb7213ba-570c-4d3a-9b70-639d2e6381ff,baneberry.ong,available,18.98,24.98,medium,low,9,namecheap,,,22/09/2026 01:43
 7c18d1f9-7540-4eac-8319-a8fe719d1d8b,tubes.ong,available,18.98,24.98,medium,low,5,namecheap,,,20/09/2026 00:50
@@ -87,11 +88,11 @@ d8fe4f63-b70c-4605-b3ef-b03dd2edc362,hysteric.ong,available,16.99,16.99,medium,l
 e7a8422c-3061-46f1-b4ba-56a48a30765a,henrietta.ong,available,18.98,24.98,high,low,9,namecheap,,,25/09/2026 17:42
 08fdfa78-70c5-44ef-8663-5dd82e01e470,yellowcake.ong,available,16.99,,medium,low,11,name.com,,,
 5c6115df-1285-45af-b0c8-b69b348d1c0d,bangkok.ong,available,18.98,24.98,high,low,7,namecheap,,,22/09/2026 01:48
-bca90b84-206f-43db-b85d-d31ab99b25e1,malayan.ong,available,16.99,16.99,high,low,7,name.com,,,24/08/2026 13:44
+bca90b84-206f-43db-b85d-d31ab99b25e1,malayan.ong,available,16.99,16.99,medium,low,7,name.com,,,24/08/2026 13:44
 71c80bbe-3472-475c-a4e7-9353ef15a562,isothermic.ong,available,16.99,16.99,medium,low,10,name.com,,,22/08/2026 11:24
 ae1ce06a-e384-4e2e-a5c4-2440ec1db870,boaster.ong,available,16.99,16.99,medium,low,7,name.com,,,11/08/2026 01:18
 16b1c84e-84ef-4fce-8273-0b2ceb9f6956,operator.ong,available,18.98,24.98,high,low,8,namecheap,,,25/09/2026 23:32
-f4007dd6-02e5-41a9-b421-5f6e2cb6fd17,ambrosian.ong,available,16.99,16.99,high,low,9,name.com,,,
+f4007dd6-02e5-41a9-b421-5f6e2cb6fd17,ambrosian.ong,available,16.99,16.99,medium,low,9,name.com,,,
 d3e9b53e-425b-4aec-b2d9-3a4d01c0c171,yank.ong,available,18.98,24.98,high,low,4,namecheap,,,13/09/2026 14:14
 7eebdf5e-28be-4ce8-93a7-3e801805e3da,frequently.ong,available,16.99,,high,low,10,name.com,,,
 6fa64525-c784-4073-921b-02d197ece977,unimportant.ong,available,16.99,,medium,low,11,name.com,,,
@@ -99,6 +100,7 @@ d3e9b53e-425b-4aec-b2d9-3a4d01c0c171,yank.ong,available,18.98,24.98,high,low,4,n
 98853f5e-30c1-432d-9079-c199c5d0fa2f,integrated.ong,available,18.98,24.98,high,low,10,namecheap,,,25/09/2026 08:05
 fff9325d-812c-4026-986b-22c83b962efb,pimiento.ong,available,18.98,24.98,medium,low,8,namecheap,,,23/09/2026 05:38
 61a6e6fb-7f42-49fe-be05-961524b9cd31,attendance.ong,available,18.98,24.98,high,low,10,namecheap,,,21/09/2026 01:23
+157816ad-ecdc-4cee-8535-e4bf290e9efd,pcr.ong,available,15.96,15.96,high,low,3,porkbun,,,28/09/2026 03:30
 bea32654-9992-4671-a142-53db89ef392d,allocation.ong,available,18.98,24.98,high,low,10,namecheap,,,18/09/2026 11:47
 9711bf1d-3bf6-46a9-8b76-c9ad33b3d71e,apercu.ong,available,18.98,24.98,medium,low,6,namecheap,,,19/09/2026 16:30
 7e199004-367a-43a2-aee5-fcfd5c15f47d,mop.ong,available,16.99,,high,low,3,name.com,,,
@@ -115,7 +117,7 @@ a6df53c4-9258-4214-bbf3-4232ee965c09,arikara.ong,available,18.98,24.98,medium,lo
 a6629d1b-1db6-44ff-8c8f-830c0bd9f449,segregated.ong,available,18.98,24.98,medium,low,10,namecheap,,,10/09/2026 01:51
 617910cb-1e04-4036-a4aa-b058906eb153,gainful.ong,available,16.99,16.99,high,low,7,name.com,,,18/08/2026 19:30
 6a60d772-be82-4d81-8350-e60a4fe0b096,unweaned.ong,available,18.98,24.98,medium,low,8,namecheap,,,12/09/2026 22:29
-d0492191-2cc1-46a0-bb85-e612c27b83d3,zoonotic.ong,available,18.98,24.98,high,low,8,namecheap,,,13/09/2026 15:35
+d0492191-2cc1-46a0-bb85-e612c27b83d3,zoonotic.ong,available,18.98,24.98,medium,low,8,namecheap,,,13/09/2026 15:35
 3865656b-1b17-4323-b846-c005826fedc0,slower.ong,available,18.98,24.98,high,low,6,namecheap,,,16/09/2026 02:42
 eb79a32b-304a-4187-86d8-ada6953bf290,praising.ong,available,16.99,16.99,high,low,8,name.com,,,22/08/2026 20:53
 f56fd20c-6db2-4c6b-873f-96af6acf933d,baku.ong,available,18.98,24.98,high,low,4,namecheap,,,21/09/2026 20:24
@@ -135,7 +137,9 @@ c1b5962f-7c82-4995-9c19-8e412a33c7d5,polygenic.ong,available,18.98,24.98,medium,
 d0d69506-45ab-49af-8db1-8b23f465adf8,acidosis.ong,available,16.99,16.99,medium,low,8,name.com,,,17/09/2026 01:28
 37b5fe39-bb00-4303-b1eb-247723f6b727,backside.ong,available,16.99,16.99,medium,low,8,name.com,,,09/08/2026 10:44
 7af83273-4182-48be-a0a0-81bdcc315509,larry.ong,available,18.98,24.98,high,low,5,namecheap,,,25/09/2026 12:43
+13a711bd-71a8-4998-aee1-b607d0816347,gut.ong,available,16.72,16.72,high,low,3,dynadot,,,28/09/2026 01:05
 64f3a718-a4bd-44f8-a18a-83205c204e3f,phial.ong,available,18.98,24.98,medium,low,5,namecheap,,,18/09/2026 23:47
+8beeac32-bd6e-4ab5-ade1-50c62835f48d,circuitry.ong,available,15.2,15.2,high,low,9,cloudflare,,,28/09/2026 02:48
 d966d088-b5f1-4039-9d89-320b912a1ceb,arava.ong,available,18.98,24.98,medium,low,5,namecheap,,,20/09/2026 00:28
 425ec08e-f8f6-422e-bf61-c6063f84d5d0,desmond.ong,available,18.98,24.98,high,low,7,namecheap,,,26/09/2026 03:14
 47aaef6f-2bc1-40a2-b8ec-f73b7b705888,bitchy.ong,available,16.99,16.99,medium,low,6,name.com,,,10/08/2026 07:17
@@ -146,8 +150,8 @@ f543e777-4c01-475b-b24b-42df73ebfb75,diazo.ong,available,16.99,16.99,medium,low,
 b026ba37-a825-439b-b847-1059f552ad0e,antiquity.ong,available,18.98,24.98,medium,low,9,namecheap,,,19/09/2026 03:50
 9c1dc518-0df7-48d1-87ce-295a1dede148,unavowed.ong,available,18.98,24.98,high,medium,8,namecheap,,,10/09/2026 12:30
 05b4b63d-f1ae-4c60-b0c9-a3c2cbdcb834,lxxxii.ong,available,16.99,16.99,medium,low,6,name.com,,,
-d795dfd6-e880-4fe7-8f1f-17d4051c277b,unstuck.ong,available,18.98,24.98,high,low,7,namecheap,,,12/09/2026 20:40
-cab66971-47d7-4644-880e-41a9faeaddc5,anemia.ong,available,18.98,24.98,high,low,6,namecheap,,,19/09/2026 01:16
+d795dfd6-e880-4fe7-8f1f-17d4051c277b,unstuck.ong,available,18.98,24.98,medium,low,7,namecheap,,,12/09/2026 20:40
+cab66971-47d7-4644-880e-41a9faeaddc5,anemia.ong,available,18.98,24.98,medium,low,6,namecheap,,,19/09/2026 01:16
 7bb01762-4fa8-470e-9d68-0481d71b7616,homespun.ong,available,16.99,16.99,high,low,8,name.com,,,13/08/2026 04:23
 6aca5c07-0791-4210-8d7a-45a0fd0df148,freight.ong,available,18.98,24.98,high,low,7,namecheap,,,23/09/2026 08:23
 13dde45d-c1fe-448d-9da5-f9a6e92a4eac,tricks.ong,available,18.98,24.98,medium,low,6,namecheap,,,25/09/2026 17:54
@@ -167,6 +171,7 @@ b5b1c3eb-9fa1-408f-9732-4748d7710cd7,obliquity.ong,available,18.98,24.98,medium,
 1a34fe03-ea33-48ba-98f4-9b89cd02fd3e,average.ong,available,18.98,24.98,high,low,7,namecheap,,,22/09/2026 14:28
 709abe39-7129-48de-9785-bedac473d194,ebionite.ong,available,16.99,16.99,medium,low,8,name.com,,,14/08/2026 23:04
 7d896e55-c5a8-449d-8dfb-41db38e2ab55,spangly.ong,available,16.99,16.99,medium,low,7,name.com,,,18/08/2026 21:20
+41cc3423-5f6a-40f6-8ac9-ebb56db8b1f9,chickens.ong,available,18.98,24.98,medium,low,8,namecheap,,,27/09/2026 22:56
 167b52fa-03ec-41b8-9aa9-63218187ad0e,engage.ong,premium,62.5,,high,low,6,name.com,,,
 69a2c1fd-8fa4-40f7-8ac7-7054d224d40e,thundery.ong,available,16.99,16.99,medium,low,8,name.com,,,13/08/2026 19:58
 1f37678b-8165-410d-879c-dfbf4bfbdd61,vertebrate.ong,available,18.98,24.98,medium,low,10,namecheap,,,13/09/2026 04:35
@@ -188,7 +193,7 @@ affbac29-256e-48e6-ac82-7196cc5c84fd,beatific.ong,available,16.99,16.99,high,low
 986f0382-90cb-475a-923d-e08b8ca94116,vitalizer.ong,available,18.98,24.98,medium,low,9,namecheap,,,19/09/2026 09:10
 fb99c80f-013c-4b89-95db-f95d5f18e3ed,botticelli.ong,available,18.98,24.98,high,low,10,namecheap,,,18/09/2026 05:31
 4ce8245e-dc94-464c-be4b-a1d3c1468dfa,peaky.ong,available,16.99,16.99,medium,low,5,name.com,,,08/09/2026 11:10
-93b097c3-e948-468c-82cf-2aa7a1433121,pungent.ong,available,16.99,16.99,high,low,7,name.com,,,
+93b097c3-e948-468c-82cf-2aa7a1433121,pungent.ong,available,16.99,16.99,medium,low,7,name.com,,,
 7b3a3cd4-f75f-464d-9907-6886eada630b,streak.ong,available,18.98,24.98,high,low,6,namecheap,,,27/09/2026 11:41
 900ef0a1-d309-4876-9ccb-82a74f2436ed,western.ong,available,16.99,16.99,high,low,7,name.com,,,13/09/2026 10:56
 9d220134-04b3-4ff5-a26d-9ab727df8aa8,clunky.ong,available,16.99,16.99,medium,low,6,name.com,,,12/08/2026 13:08
@@ -199,10 +204,11 @@ fb99c80f-013c-4b89-95db-f95d5f18e3ed,botticelli.ong,available,18.98,24.98,high,l
 c2f2cb51-7d9b-4032-98ec-73edce5e635e,privacy.ong,premium,650,325,high,medium,7,namecheap,,,24/09/2026 17:03
 bd739110-ac50-4418-a818-7e67a35486e9,belgian.ong,available,16.99,16.99,medium,low,7,name.com,,,09/08/2026 12:51
 d20396cc-13c2-43eb-b764-a894a87c6b00,equivalent.ong,available,18.98,24.98,high,low,10,namecheap,,,24/09/2026 14:50
-a4db932e-9e53-4d4f-a2cb-8e4e76f7411e,hydroponic.ong,available,16.99,16.99,high,low,10,name.com,,,06/08/2026 10:34
+a4db932e-9e53-4d4f-a2cb-8e4e76f7411e,hydroponic.ong,available,16.99,16.99,medium,low,10,name.com,,,06/08/2026 10:34
 49bf3602-9b73-41cc-9b18-cb0070f23a54,clients.ong,available,18.98,24.98,high,low,7,namecheap,,,19/09/2026 19:21
 1d557def-0444-4cde-88d2-d08650ccd703,phase.ong,available,16.99,,high,low,5,name.com,,,
 775473ab-d127-42de-89d3-c01dc14ac3f4,tokens.ong,available,18.98,24.98,high,medium,6,namecheap,,,19/09/2026 22:34
+c01bab7f-af98-475e-a60b-f777020a2ef3,emile.ong,available,18.98,24.98,medium,low,5,namecheap,,,27/09/2026 13:23
 8f95d71a-1f4a-499b-98e5-613b088f7497,allison.ong,available,18.98,24.98,medium,low,7,namecheap,,,25/09/2026 17:48
 839d3d10-8e49-4805-b2da-2dd2d9717919,tastily.ong,available,18.98,24.98,medium,low,7,namecheap,,,16/09/2026 08:03
 2952ef75-662c-4218-b8a8-8c51c12a2d24,yearly.ong,available,16.99,,high,low,6,name.com,,,
@@ -212,8 +218,9 @@ b73eda14-c506-4572-8c33-de4883b23977,butterball.ong,available,16.99,16.99,medium
 135dd491-03d3-45c2-9d17-66ee922ae614,affirmation.ong,available,18.98,24.98,high,low,11,namecheap,,,16/09/2026 08:52
 406c64a0-3fb2-4e85-8faa-ba00efe54b73,feetfirst.ong,available,18.98,24.98,medium,low,9,namecheap,,,14/09/2026 18:20
 59b9c6f8-5d62-462f-a733-e5a3a5416649,evaporated.ong,available,16.99,16.99,medium,low,10,name.com,,,17/08/2026 14:45
+d39052ab-db98-45f3-8704-2f3b61b43c3c,cultivars.ong,available,18.98,24.98,low,low,9,namecheap,,,28/09/2026 00:23
 aca30b78-aa7d-4b16-8fb5-863ddda03b9b,lief.ong,available,16.99,16.99,medium,low,4,name.com,,,17/08/2026 20:49
-ec8a7e17-b73a-4f2f-9391-cc23c79b33eb,antifreeze.ong,available,18.98,24.98,high,low,10,namecheap,,,19/09/2026 14:23
+ec8a7e17-b73a-4f2f-9391-cc23c79b33eb,antifreeze.ong,available,18.98,24.98,medium,low,10,namecheap,,,19/09/2026 14:23
 0420a88e-2750-4d0a-b230-3eb257daa2cf,acipenser.ong,available,18.98,24.98,medium,low,9,namecheap,,,17/09/2026 01:47
 070c669a-3bac-4ba4-ba3b-e9205af2a870,stripy.ong,available,18.98,24.98,medium,low,6,namecheap,,,10/09/2026 22:46
 c8b2a425-3255-4aef-8e94-aa66544e09db,design.ong,available,16.99,16.99,high,medium,6,name.com,,,24/09/2026 06:20
@@ -224,7 +231,7 @@ aa832bd4-d12d-497b-9f2c-828662ef4e67,with.ong,available,16.99,,high,high,4,name.
 7efb94bf-2645-4eff-b25c-d59e52dc9539,rid.ong,available,16.99,,high,low,3,name.com,,,
 2a815e11-d0cd-4822-b4c0-616335cc9b8b,silently.ong,available,18.98,24.98,medium,low,8,namecheap,,,15/09/2026 15:52
 f23b7e8f-2a54-487f-8d67-3dfab831aa8b,stunningly.ong,available,18.98,24.98,medium,low,10,namecheap,,,16/09/2026 06:09
-6d76f8b2-be94-439d-a2e8-0178ee7567b8,apiculture.ong,available,18.98,24.98,high,low,10,namecheap,,,19/09/2026 15:54
+6d76f8b2-be94-439d-a2e8-0178ee7567b8,apiculture.ong,available,18.98,24.98,medium,low,10,namecheap,,,19/09/2026 15:54
 335594e6-a269-40a5-a9d9-1778dec94fb3,pops.ong,available,18.98,24.98,high,low,4,namecheap,,,18/09/2026 21:55
 fc1ef472-3be3-461b-ad5e-e7db74ec6c78,hoary.ong,available,16.99,16.99,medium,low,5,name.com,,,20/08/2026 19:20
 0f6afbb2-fd45-4c40-9504-ffd406fb4cdb,jokes.ong,available,18.98,24.98,high,low,5,namecheap,,,25/09/2026 11:35
@@ -233,7 +240,7 @@ a38f2011-1f72-456a-8cc0-4e89dbdc31a6,benign.ong,available,16.99,16.99,high,low,6
 86862bcb-396c-46d9-a9b2-61959b8eb424,wastebin.ong,available,18.98,24.98,medium,low,8,namecheap,,,20/09/2026 13:38
 4b49ef6a-6bce-4a2c-9c08-48ecb2936412,simulate.ong,available,16.99,16.99,high,low,8,name.com,,,10/09/2026 05:47
 0cd3736f-6351-494f-b08d-95a5a2edaff5,edna.ong,available,18.98,24.98,high,low,4,namecheap,,,27/09/2026 01:34
-a0214811-f62c-48ef-bff9-d00f1dfd5a2e,innovative.ong,available,16.99,16.99,high,low,10,name.com,,,18/08/2026 13:03
+a0214811-f62c-48ef-bff9-d00f1dfd5a2e,innovative.ong,available,16.72,16.72,high,low,10,dynadot,,,28/09/2026 03:29
 2fd666ea-9658-4548-aa03-514d85423e75,picture.ong,available,18.98,24.98,high,low,7,namecheap,,,24/09/2026 16:54
 8305b736-f809-4511-b63d-8ab09febf8ae,hover.ong,available,16.99,,high,low,5,name.com,,,
 c350a0c8-5ff9-4c9a-9902-8e706b37a4f7,shrill.ong,available,18.98,24.98,high,medium,6,namecheap,,,10/09/2026 06:54
@@ -241,8 +248,8 @@ c350a0c8-5ff9-4c9a-9902-8e706b37a4f7,shrill.ong,available,18.98,24.98,high,mediu
 c1590389-5ff5-4159-a500-c25e874f203e,tiresome.ong,available,16.99,16.99,medium,low,8,name.com,,,10/08/2026 20:03
 58ea4072-5adf-41f8-a2b9-98a0b1c03505,streetwise.ong,available,18.98,24.98,high,low,10,namecheap,,,10/09/2026 22:26
 5bdbaafe-659c-4e5d-bbd4-12dd8610a327,gordian.ong,available,16.99,16.99,medium,low,7,name.com,,,20/08/2026 17:03
-ec49e44d-debb-4393-aaaa-6345337b0a6a,unabridged.ong,available,18.98,24.98,high,low,10,namecheap,,,11/09/2026 23:28
-cd0f000b-8a68-4b0c-93e6-fc100de82630,convolute.ong,available,16.99,16.99,high,low,9,name.com,,,12/08/2026 23:57
+ec49e44d-debb-4393-aaaa-6345337b0a6a,unabridged.ong,available,18.98,24.98,medium,low,10,namecheap,,,11/09/2026 23:28
+cd0f000b-8a68-4b0c-93e6-fc100de82630,convolute.ong,available,16.99,16.99,medium,low,9,name.com,,,12/08/2026 23:57
 e0916170-e498-494b-a8ad-abde80ea9ea9,grandma.ong,available,16.99,,high,low,7,name.com,,,
 4f5267e3-b500-4907-b680-c79299b96d0d,well.ong,available,18.98,24.98,high,low,4,namecheap,,,24/09/2026 22:39
 13489507-552c-417c-8cd3-acbc320bdd08,sprinkle.ong,available,18.98,24.98,high,low,8,namecheap,,,15/09/2026 20:15
@@ -251,13 +258,14 @@ e0916170-e498-494b-a8ad-abde80ea9ea9,grandma.ong,available,16.99,,high,low,7,nam
 ed641334-dc76-4cbc-a70a-3f105ba74903,chagrined.ong,available,16.99,16.99,medium,low,9,name.com,,,
 913b9cf7-d437-4838-ad97-e42101a0c530,arrhythmia.ong,available,18.98,24.98,medium,low,10,namecheap,,,20/09/2026 09:13
 bd7183cf-bd7a-49e4-8711-d9f9f26c3fc3,talented.ong,available,16.99,16.99,high,low,8,name.com,,,18/08/2026 23:26
-01d22cf6-8c2a-4fca-8e5d-f01ee2bc33b5,then.ong,available,16.99,,high,low,4,name.com,,,
+01d22cf6-8c2a-4fca-8e5d-f01ee2bc33b5,then.ong,available,15.2,15.2,high,low,4,cloudflare,,,28/09/2026 02:27
 3a3ef2de-ba67-48fc-a25d-0e901099624e,rearing.ong,available,18.98,24.98,high,low,7,namecheap,,,09/09/2026 11:04
 5147d365-b333-4e5d-91af-59752a9a71c0,doctorial.ong,available,16.99,16.99,medium,low,9,name.com,,,14/08/2026 14:21
 a313d6e5-920c-492f-9969-7f95a599229c,knower.ong,available,18.98,24.98,medium,low,6,namecheap,,,19/09/2026 22:14
 9b69c502-e257-4c3e-a64a-5c4553a8c296,postmark.ong,available,16.99,16.99,high,low,8,name.com,,,18/08/2026 14:12
 c99942e0-6145-4e6f-b816-be95a06ac993,copular.ong,available,16.99,16.99,medium,low,7,name.com,,,13/08/2026 00:38
 cef61ceb-cc91-4362-93ad-f1f746c7a762,timing.ong,available,18.98,24.98,high,low,6,namecheap,,,27/09/2026 05:40
+e00bf0e2-3cd1-4520-81a0-5a5399d42eac,skating.ong,available,15.96,15.96,high,low,7,porkbun,,,28/09/2026 03:06
 e6517932-6172-4884-9c7c-a654c56e94af,publicity.ong,available,16.99,,high,low,9,name.com,,,
 5c447420-eb45-41d7-a76e-c4b1a64547c4,amyloid.ong,available,16.99,16.99,medium,low,7,name.com,,,
 82bf600f-74ce-46f5-ae37-28decd715ffc,wisdom.ong,available,16.99,,high,low,6,name.com,,,
@@ -266,12 +274,12 @@ b433a7e0-12ad-4fd1-81b6-fb6875fbbc2f,brut.ong,available,16.99,16.99,medium,low,4
 a034e4dd-b420-4571-b578-d66ae2a8f4ba,brigand.ong,available,18.98,24.98,medium,low,7,namecheap,,,22/09/2026 01:20
 0eb5f3c8-49ab-4ea2-bd1a-163f94673ff7,lava.ong,available,16.99,,high,low,4,name.com,,,
 f2e56e00-ea5f-45f3-82ad-c460508c0a6b,diacritic.ong,available,16.99,16.99,medium,low,9,name.com,,,14/08/2026 05:43
-330e4b65-746e-4b6a-8491-592fc046308f,hangover.ong,available,16.99,,high,low,9,name.com,,,
+330e4b65-746e-4b6a-8491-592fc046308f,hangover.ong,available,16.99,,medium,low,9,name.com,,,
 b9474229-4c8c-482b-adfc-e6e9eb5767f5,complacent.ong,available,16.99,16.99,medium,low,10,name.com,,,12/08/2026 19:25
 64f3f94d-4e31-43a3-8440-600a452a9562,punctured.ong,available,18.98,24.98,medium,low,9,namecheap,,,08/09/2026 16:56
 5f0c3413-3ba3-4402-ac77-425e2debd4cb,fairly.ong,available,18.98,24.98,high,low,6,namecheap,,,24/09/2026 16:08
 f45f7163-9344-4157-b00f-de9a4ae8fa75,lxx.ong,available,16.99,16.99,medium,low,3,name.com,,,
-c1381c63-a060-4115-8fee-c05d9848b167,atheism.ong,available,18.98,24.98,high,low,7,namecheap,,,20/09/2026 20:31
+c1381c63-a060-4115-8fee-c05d9848b167,atheism.ong,available,18.98,24.98,medium,low,7,namecheap,,,20/09/2026 20:31
 c20a51ec-34d9-4d53-aa5f-528f05ad136d,colombian.ong,available,16.99,16.99,high,low,9,name.com,,,12/08/2026 17:18
 5a7dc9f3-ddb2-44ed-90ac-c90df0ff0ab5,brinjal.ong,available,16.99,16.99,high,low,7,name.com,,,21/09/2026 02:34
 59025b9d-6a1e-4db2-9b21-efab5de197aa,blende.ong,available,18.98,24.98,medium,low,6,namecheap,,,24/09/2026 05:43
@@ -280,7 +288,7 @@ c20a51ec-34d9-4d53-aa5f-528f05ad136d,colombian.ong,available,16.99,16.99,high,lo
 4daa6bec-ecf4-4562-9210-f816d3745c9a,aground.ong,available,16.99,16.99,medium,low,7,name.com,,,
 196f7c06-6ce4-4e25-8339-685c34c42690,follow.ong,available,16.99,,high,low,6,name.com,,,
 eb565388-537b-4b67-817f-4836cfc59eea,vaunt.ong,available,16.99,16.99,medium,low,5,name.com,,,11/08/2026 01:09
-29534500-eda7-4a70-b81b-568fdf69700e,esthetical.ong,available,18.98,24.98,high,low,10,namecheap,,,21/09/2026 21:22
+29534500-eda7-4a70-b81b-568fdf69700e,esthetical.ong,available,18.98,24.98,medium,low,10,namecheap,,,21/09/2026 21:22
 caff73ca-f8d2-4612-a04d-83dece196b59,pallor.ong,available,18.98,24.98,medium,low,6,namecheap,,,17/09/2026 01:07
 f87f76ea-320f-465e-9588-bc85d9a58b88,adlumia.ong,available,18.98,24.98,medium,low,7,namecheap,,,17/09/2026 08:37
 86fef0ea-62e1-4a7b-b632-5b3725ac1832,otc.ong,available,18.98,24.98,high,low,3,namecheap,,,04/09/2026 18:34
@@ -290,7 +298,7 @@ f87f76ea-320f-465e-9588-bc85d9a58b88,adlumia.ong,available,18.98,24.98,medium,lo
 dc2ca9d7-7b47-4867-8d1c-d98fecdbf164,modesty.ong,available,16.99,,high,low,7,name.com,,,
 a4501761-db0f-4308-b539-bd59dfb306c5,calendric.ong,available,16.99,16.99,medium,low,9,name.com,,,11/08/2026 14:14
 1730ce30-4c23-4e55-b83b-4e86a5068c40,obstinate.ong,available,16.99,16.99,medium,low,9,name.com,,,13/08/2026 12:17
-b93a1a6c-3425-441a-bb98-0da8499ce0a2,unsigned.ong,available,18.98,24.98,high,low,8,namecheap,,,12/09/2026 19:55
+b93a1a6c-3425-441a-bb98-0da8499ce0a2,unsigned.ong,available,18.98,24.98,medium,low,8,namecheap,,,12/09/2026 19:55
 6542bc45-2d00-49b6-8abb-c3b2a5b47774,coerce.ong,available,16.99,16.99,medium,low,6,name.com,,,20/08/2026 22:25
 abd73b38-ca2e-467d-b314-22fa549bce38,clunk.ong,available,18.98,24.98,medium,low,5,namecheap,,,11/09/2026 15:10
 586e2730-cf38-4839-b98d-7501f203b7ba,bordeaux.ong,available,18.98,24.98,high,low,8,namecheap,,,24/09/2026 07:22
@@ -311,7 +319,7 @@ d675bdcc-dca7-46eb-b7a2-2d7f3f67148e,brainwash.ong,available,16.99,,high,low,9,n
 5f2cccfe-cebb-4382-9cfa-35e9b1741670,transparent.ong,available,16.99,,high,low,11,name.com,,,
 3dcc5e17-afab-4fb5-ad01-1333a0e233a8,incident.ong,available,16.99,16.99,high,low,8,name.com,,,22/08/2026 01:19
 b0c440fc-87b0-421a-8d89-969e233d4b2e,trends.ong,available,18.98,24.98,high,low,6,namecheap,,,17/09/2026 19:12
-7131b666-29e4-4bd9-afcb-0aa1dedb7496,minds.ong,available,18.98,24.98,high,low,5,namecheap,,,25/09/2026 20:20
+7131b666-29e4-4bd9-afcb-0aa1dedb7496,minds.ong,available,18.98,24.98,medium,low,5,namecheap,,,25/09/2026 20:20
 1bfbc3ef-16d0-44c4-b37c-56d69ba7d6d1,atm.ong,available,18.98,24.98,high,low,3,namecheap,,,20/09/2026 18:44
 99a14dce-fe5b-460d-ab7c-e2e3f1151d79,nest.ong,available,16.99,,high,medium,4,name.com,,,
 84e7802a-1ab9-4037-8b2c-727515dc22f9,intolerant.ong,available,16.99,16.99,medium,low,10,name.com,,,21/08/2026 20:02
@@ -330,7 +338,7 @@ d1ccad6b-6ccd-41f9-b71a-886a1991bcd8,jay.ong,available,16.99,,high,low,3,name.co
 ddea8a16-6fc1-4693-b34d-4af0d444f036,aug.ong,available,16.99,16.99,high,low,3,name.com,,,07/08/2026 17:10
 2bfc9c0d-61e0-4c3e-85c3-5f42e24130e1,store.ong,available,18.98,24.98,high,medium,5,namecheap,,,24/09/2026 16:58
 408be609-6efc-4643-8127-dee343140dc0,unnatural.ong,available,16.99,16.99,medium,low,9,name.com,,,
-f7ea1aa0-fbc6-440b-a2aa-c33698a30b57,andante.ong,available,16.99,16.99,high,low,7,name.com,,,
+f7ea1aa0-fbc6-440b-a2aa-c33698a30b57,andante.ong,available,16.99,16.99,medium,low,7,name.com,,,
 598e18ca-4626-4230-8b50-027594606b24,assets.ong,available,18.98,24.98,high,low,6,namecheap,,,20/09/2026 16:21
 ef27c0e1-602e-4e3a-ba35-91c6e9a546c5,tease.ong,available,18.98,24.98,high,low,5,namecheap,,,11/09/2026 09:59
 8dbbc70d-a079-44c5-96e4-a51abc53a258,aurochs.ong,available,18.98,24.98,medium,low,7,namecheap,,,21/09/2026 04:34
@@ -338,7 +346,7 @@ edd21b6d-84fd-4db3-9a4e-416f934ed86a,radiation.ong,available,18.98,24.98,high,lo
 9e110a4c-4c9b-4bb5-b1fa-a47c2cb8e3b7,dishonest.ong,available,16.99,16.99,medium,low,9,name.com,,,11/08/2026 03:44
 a5c88e8f-e30c-4e5f-b5b0-91a724d8fdd0,dourly.ong,available,18.98,24.98,low,low,6,namecheap,,,14/09/2026 13:56
 73d49e93-9151-452d-9a04-30196e1babb4,hidebound.ong,available,16.99,16.99,medium,low,9,name.com,,,21/08/2026 08:11
-38566b9b-59b6-41ce-8c22-7d6c896aca1e,isolated.ong,available,16.99,16.99,high,low,8,name.com,,,22/09/2026 07:07
+38566b9b-59b6-41ce-8c22-7d6c896aca1e,isolated.ong,available,16.99,16.99,medium,low,8,name.com,,,22/09/2026 07:07
 322f44bc-e53a-464e-b74e-39dce78d9d9a,ducktape.ong,available,18.98,24.98,high,low,9,namecheap,,,27/09/2026 08:55
 ce2ae295-fb34-4c9e-95be-d00334f3bff3,tuneful.ong,available,16.99,16.99,high,low,7,name.com,,,24/08/2026 19:43
 6717d6f9-24bd-43c7-99d4-8587fc550d1a,vixenish.ong,available,18.98,24.98,medium,low,8,namecheap,,,13/09/2026 06:24
@@ -351,7 +359,7 @@ a4e59371-e31a-4407-a368-e3bca157fadb,scooped.ong,available,18.98,24.98,medium,lo
 008b44c6-51e1-40c7-9bbc-01f5f4fce62c,upstate.ong,available,18.98,24.98,high,low,7,namecheap,,,16/09/2026 10:25
 1c97125d-b2ba-4b6a-a84d-eac840c02a7c,discerning.ong,available,16.99,16.99,high,low,10,name.com,,,06/08/2026 08:23
 6f8bce20-e5e8-480c-9995-aabbbb5e9729,involves.ong,available,18.98,24.98,medium,low,8,namecheap,,,19/09/2026 23:56
-6121b824-66b1-440b-81c8-31f216a29093,perforation.ong,available,16.99,,high,low,11,name.com,,,
+6121b824-66b1-440b-81c8-31f216a29093,perforation.ong,available,16.99,,medium,low,11,name.com,,,
 ff90a6d0-5835-4665-a344-c2bc91b2cd8e,item.ong,available,16.99,,high,low,4,name.com,,,
 bea99578-4ce1-4355-8c34-dc36d8dd1b25,anaheim.ong,available,18.98,24.98,high,low,7,namecheap,,,19/09/2026 01:31
 84d54f7b-a436-439e-b496-5f42906cd734,are.ong,available,16.99,,high,low,3,name.com,,,
@@ -365,7 +373,7 @@ ce0d8ba9-4fdc-493a-b6a9-5273d4b40c83,afterglow.ong,available,18.98,24.98,high,lo
 a5c3fa82-430f-445a-a840-8ba602b09027,dualistic.ong,available,16.99,16.99,medium,low,9,name.com,,,14/08/2026 20:40
 a2e8d41e-0dcf-4d72-a378-369271347ed3,oakley.ong,available,18.98,24.98,high,medium,6,namecheap,,,19/09/2026 10:26
 32a521e6-4c5f-4859-92ba-d7d59ba83920,bohrium.ong,available,18.98,24.98,medium,low,7,namecheap,,,20/09/2026 22:07
-05c8681c-3573-4879-8ee2-55916f858ec1,tasking.ong,available,16.99,,high,low,7,name.com,,,
+05c8681c-3573-4879-8ee2-55916f858ec1,tasking.ong,available,16.99,,medium,low,7,name.com,,,
 eded3ad9-0458-4b3b-8fc3-cb3f70029a3f,bazar.ong,available,18.98,24.98,high,low,5,namecheap,,,22/09/2026 18:23
 cfd0d38e-1766-46c4-9beb-096c640ef023,clover.ong,available,18.98,24.98,high,low,6,namecheap,,,24/09/2026 16:06
 d10c8438-9704-45f8-a7e7-26183a890f60,miscreant.ong,available,18.98,24.98,medium,low,9,namecheap,,,09/09/2026 14:38
@@ -384,9 +392,10 @@ ff403522-50a7-41c1-945e-f6b52a89b97b,afrl.ong,available,18.98,24.98,medium,low,4
 e44ff240-ea2c-4efb-9fff-d679518181ca,alms.ong,available,18.98,24.98,high,low,4,namecheap,,,18/09/2026 12:43
 a81f1c03-839f-467c-933b-3e3a8aa4f31d,iron.ong,available,18.98,24.98,high,low,4,namecheap,,,23/09/2026 13:11
 4e5c70f3-2139-492a-a97d-390e4cbcb7b1,penniless.ong,available,16.99,16.99,medium,low,9,name.com,,,21/08/2026 00:34
+8ba36a3f-8a53-4484-9709-e9f117f52032,grayson.ong,available,16.72,16.72,medium,low,7,dynadot,,,28/09/2026 00:47
 b3da9851-2dca-43b9-b89d-3502159bf400,endogamic.ong,available,16.99,16.99,medium,low,9,name.com,,,17/08/2026 01:11
 ed19fc3f-0f5b-496f-9dbf-438aa577e39c,guidance.ong,premium,65,32.5,high,low,8,namecheap,,,24/09/2026 02:39
-5bdcd904-026a-4822-a67e-fc67f143bfe7,sisal.ong,available,16.99,16.99,high,low,5,name.com,,,17/09/2026 16:39
+5bdcd904-026a-4822-a67e-fc67f143bfe7,sisal.ong,available,16.99,16.99,medium,low,5,name.com,,,17/09/2026 16:39
 729e5d71-0d14-44db-baf5-f10626ff6a09,anti.ong,premium,62.5,31.25,high,low,4,name.com,,,
 64c4a04c-8d5c-42fc-87fb-8f297207cc7c,blacksmith.ong,available,18.98,24.98,high,low,10,namecheap,,,24/09/2026 03:09
 3943ecb3-7fc2-4ce6-88bf-f0914070e2cf,typically.ong,available,16.99,,medium,low,9,name.com,,,
@@ -394,13 +403,13 @@ f3966868-1814-4ef6-9cf2-054be2ac8a2e,flogging.ong,available,16.99,16.99,medium,l
 cf5f7259-d6bd-4d9f-8ca3-bd55c931ccf2,petite.ong,available,16.99,16.99,medium,low,6,name.com,,,08/08/2026 14:24
 2a836b05-92b6-4ec6-943c-e7ed29f3c129,avian.ong,available,16.99,16.99,high,low,5,name.com,,,07/08/2026 23:17
 89819b13-2eab-4e1d-ab66-7731580b181b,plummy.ong,available,18.98,24.98,medium,low,6,namecheap,,,08/09/2026 21:51
-bb06a118-bd0d-496f-b051-ca56f1acbed5,staple.ong,available,18.98,24.98,high,low,6,namecheap,,,10/09/2026 18:45
+bb06a118-bd0d-496f-b051-ca56f1acbed5,staple.ong,available,18.98,24.98,medium,low,6,namecheap,,,10/09/2026 18:45
 a1d76a01-49bd-4737-8a48-27ebaf35b2e0,chargeable.ong,available,16.99,16.99,medium,low,10,name.com,,,12/08/2026 02:27
 bc189585-177a-4038-a29d-308ed8354aaa,theyre.ong,available,16.99,,medium,low,6,name.com,,,
 95273114-6db0-4f5a-a3df-ce465f6a3cbf,efficiency.ong,premium,65,32.5,high,low,10,namecheap,,,24/09/2026 05:23
 114d2d3a-f620-46c5-82d5-c0d4421a0fbb,receive.ong,available,16.99,,high,low,7,name.com,,,
 c8e1db5a-e225-42c8-baf9-fdcc3c16877b,aengus.ong,available,18.98,24.98,medium,low,6,namecheap,,,17/09/2026 12:29
-917dc88e-3f51-4f04-a165-021990f195ff,natives.ong,available,18.98,24.98,high,low,7,namecheap,,,18/09/2026 01:41
+917dc88e-3f51-4f04-a165-021990f195ff,natives.ong,available,18.98,24.98,medium,low,7,namecheap,,,18/09/2026 01:41
 d9a50f0d-994a-4f52-b83b-23eaf74b1d7e,puissant.ong,available,18.98,24.98,medium,low,8,namecheap,,,09/09/2026 05:53
 3f692629-3bc7-41e1-8037-f1f56feb2b74,gnarly.ong,available,16.99,16.99,medium,low,6,name.com,,,20/08/2026 15:38
 ff8d8819-c043-4394-965e-73ab4226c2ba,hmong.ong,available,16.99,16.99,high,low,5,name.com,,,21/08/2026 10:02
@@ -416,7 +425,7 @@ db4d96e0-9617-456f-9fc4-91ffa6b25ebf,beda.ong,available,18.98,24.98,high,low,4,n
 6d4a6a52-405b-41b7-9078-96a7b31729db,nonskid.ong,available,18.98,24.98,medium,low,7,namecheap,,,03/09/2026 20:36
 f47db3fd-f8bf-4be1-9fde-5af5d337b750,agone.ong,available,16.99,16.99,medium,low,5,name.com,,,
 72da9fc6-408e-490c-811b-fbaf14a5ac15,uncreative.ong,available,18.98,24.98,medium,low,10,namecheap,,,12/09/2026 06:24
-9a9460e1-37a3-4472-93ff-75a7576a6ed6,enormously.ong,available,18.98,24.98,high,low,10,namecheap,,,14/09/2026 15:47
+9a9460e1-37a3-4472-93ff-75a7576a6ed6,enormously.ong,available,18.98,24.98,medium,low,10,namecheap,,,14/09/2026 15:47
 3983f4d0-16aa-4dde-87e3-c86aee7f126a,fictional.ong,available,16.99,16.99,high,low,9,name.com,,,17/08/2026 20:18
 6b183fdd-d214-4a0e-abfc-ae6cc7b846a4,ruffian.ong,available,16.99,16.99,medium,low,7,name.com,,,11/08/2026 08:41
 56f0ab40-4e97-4bed-8f75-cb1a8b1dac4f,collegial.ong,available,16.99,16.99,high,low,9,name.com,,,12/08/2026 17:06
@@ -436,13 +445,14 @@ b49467dc-7cc2-4e54-bee5-ba85e57aad37,endowed.ong,available,16.99,16.99,high,low,
 13cd2d67-a20f-4250-8e07-b04d0f6a737f,cordiality.ong,available,18.98,24.98,high,low,10,namecheap,,,18/09/2026 21:58
 afe0b87b-d694-425e-9d07-c7a059b285b2,turbulent.ong,available,16.99,16.99,medium,low,9,name.com,,,14/08/2026 12:26
 01fa51bc-0935-48c1-8567-37a41ae7bf60,billboard.ong,available,16.99,,high,low,9,name.com,,,
-54f77a1c-31b7-4d23-8dd3-4d05ba3e68d8,faces.ong,available,16.99,,high,low,5,name.com,,,
+54f77a1c-31b7-4d23-8dd3-4d05ba3e68d8,faces.ong,available,16.99,,medium,low,5,name.com,,,
 e8ad596b-5241-4516-8950-a904ee5d3a46,offenses.ong,available,18.98,24.98,low,low,8,namecheap,,,20/09/2026 10:35
 efcd30e9-493a-4904-b963-ab7a0d5d193d,canvasback.ong,available,16.99,16.99,medium,low,10,name.com,,,21/09/2026 10:51
 7e81ed61-61c2-4bb0-98d6-7c9ae370160a,billet.ong,available,18.98,24.98,high,low,6,namecheap,,,23/09/2026 10:14
 4566a8bb-476a-4001-8f00-895182dc8595,canine.ong,available,16.99,16.99,high,low,6,name.com,,,11/08/2026 16:56
 79e13d7f-cf98-41af-8957-a1428ff49b47,description.ong,available,16.99,,high,low,11,name.com,,,
 b250b5e0-4dac-4153-bec5-83acbd3e37da,deputy.ong,available,16.99,,high,low,6,name.com,,,
+7ea0f14d-d295-4aec-87b8-ea0f10243f8d,forsyth.ong,available,16.72,16.72,high,low,7,dynadot,,,27/09/2026 21:08
 c73bb3ed-7271-4bcb-93ad-4fec8cc41b86,emeer.ong,available,18.98,24.98,medium,low,5,namecheap,,,18/09/2026 18:00
 244e07f8-7ab1-4e35-aa09-ec4c98d5d556,whorled.ong,available,16.99,16.99,medium,low,7,name.com,,,12/08/2026 16:18
 b8bcff4f-0d71-4ca3-8827-ed95b994f419,alexandra.ong,available,18.98,24.98,medium,low,9,namecheap,,,27/09/2026 02:30
@@ -452,7 +462,7 @@ b540b603-a03b-405e-b942-59ca7cfde2da,lxxx.ong,available,16.99,16.99,medium,low,4
 9e5e667a-1a69-438b-9e1d-f78890e60101,choirs.ong,available,18.98,24.98,medium,low,6,namecheap,,,17/09/2026 06:51
 5874f3f0-aaea-441e-ae8f-c406bba8d2f9,ferial.ong,available,16.99,16.99,medium,low,6,name.com,,,18/08/2026 01:56
 1d16dbc9-5fbc-4adc-9afc-3f9150c0162f,unfixed.ong,available,16.99,16.99,medium,low,7,name.com,,,12/09/2026 10:28
-a7e9a68f-66ae-47d7-b9c3-7c0093de23ea,corpse.ong,available,18.98,24.98,high,low,6,namecheap,,,25/09/2026 22:01
+a7e9a68f-66ae-47d7-b9c3-7c0093de23ea,corpse.ong,available,18.98,24.98,medium,low,6,namecheap,,,25/09/2026 22:01
 75e95223-4315-471d-8180-df3b08d48d31,akhenaten.ong,available,18.98,24.98,medium,low,9,namecheap,,,17/09/2026 23:57
 d434fe68-60fb-466b-bab5-31f44f947731,anhydride.ong,available,18.98,24.98,medium,low,9,namecheap,,,19/09/2026 08:24
 3e85a4c2-e9ab-49ff-bfa6-58e6b0885de3,nicely.ong,available,18.98,24.98,high,low,6,namecheap,,,15/09/2026 16:32
@@ -461,28 +471,31 @@ d434fe68-60fb-466b-bab5-31f44f947731,anhydride.ong,available,18.98,24.98,medium,
 3db9ce67-98e2-4294-929f-48448646179d,unflagging.ong,available,16.99,16.99,high,low,10,name.com,,,22/08/2026 02:31
 63919d38-57cd-4701-bb8d-918a8c1609a9,practical.ong,available,16.99,16.99,high,low,9,name.com,,,21/08/2026 00:29
 afd0f79f-1def-4f28-9472-7996a52598f7,antapex.ong,available,18.98,24.98,medium,low,7,namecheap,,,19/09/2026 12:32
+f50d3227-7a5f-4826-8af5-89a169d2f07c,cas.ong,available,16.72,16.72,high,low,3,dynadot,,,27/09/2026 23:14
 68c22e41-155c-468e-adf2-b9041c852c0a,blackwood.ong,available,18.98,24.98,high,low,9,namecheap,,,24/09/2026 03:25
 a9c29d13-b527-466c-bdc3-98848bb299f9,archean.ong,available,16.99,16.99,medium,low,7,name.com,,,06/08/2026 15:05
 6b732ea9-bc88-4488-b298-101a2ed5991c,cuba.ong,available,,,high,high,4,,,,
 d18fcdb7-2c09-40b5-a193-b9b1a10e6510,rubberize.ong,available,18.98,24.98,high,medium,9,namecheap,,,09/09/2026 19:13
-22882b34-7565-40b6-827c-8959791157e1,divide.ong,available,16.99,,high,low,6,name.com,,,
+22882b34-7565-40b6-827c-8959791157e1,divide.ong,available,18.98,24.98,high,low,6,namecheap,,,27/09/2026 20:14
 54e2a881-efa1-4555-a682-79f2354291ff,aden.ong,available,18.98,24.98,medium,low,4,namecheap,,,17/09/2026 07:22
 dd74e46d-2d74-43b7-94e0-16162d22626a,rodin.ong,available,18.98,24.98,high,low,5,namecheap,,,21/09/2026 03:57
 7c877a2f-30f5-4fbf-9c77-092a22afae2a,battue.ong,available,18.98,24.98,medium,low,6,namecheap,,,22/09/2026 16:30
 ef0f44bc-4271-4f4a-94cf-a8d5e047297e,colonic.ong,available,16.99,16.99,medium,low,7,name.com,,,12/08/2026 17:22
 01f5314b-0745-41f5-8cb5-24cf2bdd1a10,prescribed.ong,available,16.99,16.99,medium,low,10,name.com,,,13/08/2026 22:17
 5fe14f59-88f7-45f0-a4ff-6d85cdf26a2c,newsworthy.ong,available,18.98,24.98,high,low,10,namecheap,,,03/09/2026 16:53
-013cca41-b0a3-425e-80c4-6a2384f05fed,greenly.ong,available,18.98,24.98,high,low,7,namecheap,,,14/09/2026 22:19
+013cca41-b0a3-425e-80c4-6a2384f05fed,greenly.ong,available,18.98,24.98,medium,low,7,namecheap,,,14/09/2026 22:19
 3c16dfee-5b29-4187-95aa-a72618585862,smoothen.ong,available,18.98,24.98,medium,low,8,namecheap,,,08/09/2026 23:04
+ae7306ac-8658-43d6-b2aa-af5b946cab7f,nord.ong,available,15.2,15.2,high,low,4,cloudflare,,,27/09/2026 18:56
 1b366eb9-f5ad-46c1-8fad-565acdbf80b7,moldovan.ong,available,16.99,16.99,high,low,8,name.com,,,25/08/2026 03:50
-85940c5a-5473-43cc-b290-7c59c7a5977b,trier.ong,available,16.99,16.99,high,low,5,name.com,,,21/09/2026 01:21
+85940c5a-5473-43cc-b290-7c59c7a5977b,trier.ong,available,16.99,16.99,medium,low,5,name.com,,,21/09/2026 01:21
 ba8759c6-32ee-42f0-92af-b143255d537c,boone.ong,available,16.99,16.99,high,low,5,name.com,,,25/09/2026 01:56
 a0659f32-6823-416f-855a-c74672196602,belisarius.ong,available,18.98,24.98,medium,low,10,namecheap,,,23/09/2026 05:17
 c38e0f38-9f84-4dbf-b275-e99572e33a9c,shag.ong,available,16.99,16.99,medium,low,4,name.com,,,18/08/2026 17:33
 cf15c7ae-9ced-43dd-8d83-4a85dbd18852,rex.ong,available,18.98,24.98,high,low,3,namecheap,,,27/09/2026 04:37
 58a5f09d-4bf0-48d1-9365-558ea20bb563,transported.ong,available,18.98,24.98,medium,low,11,namecheap,,,16/09/2026 07:05
 b5ae0336-7daa-4e8b-af5e-bedab3392819,nacreous.ong,available,18.98,24.98,medium,low,8,namecheap,,,03/09/2026 12:37
-93029434-fe5d-4665-bef6-15ffb0bf787b,doubtful.ong,available,18.98,24.98,high,low,8,namecheap,,,24/09/2026 11:52
+93029434-fe5d-4665-bef6-15ffb0bf787b,doubtful.ong,available,18.98,24.98,medium,low,8,namecheap,,,24/09/2026 11:52
+e3b4ace0-4c81-4593-a33c-d036d98d484c,middletown.ong,available,15.2,15.2,high,low,10,cloudflare,,,27/09/2026 21:20
 75528576-0a0e-4f3c-9743-0aa73e1c3d3d,stunned.ong,available,16.99,16.99,high,low,7,name.com,,,22/09/2026 03:44
 48d7fe41-af35-428d-ae1d-00c21f8b5aaa,panipat.ong,available,18.98,24.98,medium,low,7,namecheap,,,22/09/2026 15:36
 1e3c58d8-cf69-4cef-8a42-1523eee224ef,structure.ong,available,18.98,24.98,high,low,9,namecheap,,,25/09/2026 03:58
@@ -490,6 +503,7 @@ cd576684-6bfe-4d91-8052-bac4f9ef6606,visitors.ong,available,18.98,24.98,high,low
 3956f76f-656a-44c5-91f4-2580a5ef4a44,completing.ong,available,18.98,24.98,high,low,10,namecheap,,,23/09/2026 17:20
 b3658ec2-48e8-45cd-be27-8667fcfeba1a,annotation.ong,available,18.98,24.98,high,low,10,namecheap,,,19/09/2026 10:38
 04c571b8-26c0-4834-99dd-460f6d9a52f2,arugula.ong,available,18.98,24.98,high,low,7,namecheap,,,20/09/2026 12:10
+0ad770ae-2ebc-49b9-97eb-5b1c55491daa,terence.ong,available,16.72,16.72,medium,low,7,dynadot,,,27/09/2026 15:27
 3a653494-af79-4842-a485-41070a3e194d,idempotent.ong,available,16.99,16.99,medium,low,10,name.com,,,21/08/2026 18:03
 f5a572b4-28f1-4fad-a28f-b00f6444fe61,shoat.ong,available,18.98,24.98,high,medium,5,namecheap,,,08/09/2026 19:35
 a4ab73e6-b441-4ca2-86cb-227476227844,disrupt.ong,available,16.99,16.99,high,low,7,name.com,,,13/08/2026 12:40
@@ -503,7 +517,7 @@ b0c1c0cf-589d-44f0-81d4-23b1040c65e9,spectral.ong,available,16.99,16.99,high,low
 d071a10f-531a-42e7-8e7f-ddb5d05635cd,quotes.ong,available,18.98,24.98,high,low,6,namecheap,,,18/09/2026 21:27
 db2775b6-38c3-4156-a215-7374d48fb868,malthusian.ong,available,16.99,16.99,medium,low,10,name.com,,,24/08/2026 14:17
 f666576c-5d0f-4cb8-b76c-e38292ed341e,titus.ong,available,18.98,24.98,high,low,5,namecheap,,,25/09/2026 05:37
-47219f51-f072-4c90-ad09-46a8208f2abd,unbranded.ong,available,16.99,16.99,high,low,9,name.com,,,12/09/2026 04:29
+47219f51-f072-4c90-ad09-46a8208f2abd,unbranded.ong,available,16.99,16.99,medium,low,9,name.com,,,12/09/2026 04:29
 eacb8dd6-a355-47a5-8063-42b4fc3bf825,soil.ong,available,18.98,24.98,high,low,4,namecheap,,,24/09/2026 02:55
 ffab8bd8-5c04-439f-9fb5-89d640e79d86,etch.ong,available,16.99,,high,low,4,name.com,,,
 316c8a6f-cbe6-468d-9c26-e72b50fb0f12,preteen.ong,available,18.98,24.98,high,medium,7,namecheap,,,09/09/2026 01:08
@@ -523,7 +537,7 @@ a7f30477-6041-4591-b188-646b4edce503,ineptitude.ong,available,18.98,24.98,medium
 b89522cf-b022-48bc-a842-ceab8c32a0af,alluvium.ong,available,18.98,24.98,medium,low,8,namecheap,,,18/09/2026 12:20
 929cc14f-010e-4ac3-bb13-390a2e098f7a,deist.ong,available,16.99,16.99,medium,low,5,name.com,,,14/08/2026 00:15
 b82fd286-929e-47d4-8e7c-697a404601fa,westminster.ong,available,16.99,,high,low,11,name.com,,,
-d542f814-7f23-40fe-86ba-c10e7d69a581,weakness.ong,available,16.99,16.99,high,low,8,name.com,,,17/08/2026 20:45
+d542f814-7f23-40fe-86ba-c10e7d69a581,weakness.ong,available,16.99,16.99,medium,low,8,name.com,,,17/08/2026 20:45
 f952dd08-0fa6-4728-90d5-1e182cd34239,abel.ong,available,18.98,24.98,high,low,4,namecheap,,,16/09/2026 14:57
 87fbdfa4-6cf0-4e76-9fbe-a1bb938de4ec,citywide.ong,available,16.99,16.99,high,low,8,name.com,,,12/08/2026 09:00
 2b2f8cd9-38c7-49d6-a48f-8d6ae8914791,soporific.ong,available,16.99,16.99,medium,low,9,name.com,,,21/08/2026 16:58
@@ -545,6 +559,7 @@ e64f5970-c0ec-4bae-ae3c-0f93e34d53e4,rhode.ong,available,16.99,16.99,high,low,5,
 c6d54047-1e1c-4c28-a272-e5da898f6fb5,amends.ong,available,18.98,24.98,high,low,6,namecheap,,,18/09/2026 18:41
 a47d2018-ac68-43da-b5c6-10a8b394d39e,peacemaker.ong,available,18.98,24.98,high,low,10,namecheap,,,24/09/2026 10:53
 6138a8e9-c44e-48c8-91ad-6cb8b1bf5148,flabby.ong,available,16.99,16.99,medium,low,6,name.com,,,18/08/2026 06:05
+4b023294-8097-4b9a-8030-ad1c4d02d9d2,blocking.ong,available,18.98,24.98,high,low,8,namecheap,,,28/09/2026 00:53
 43f53a96-cfc9-43ea-aba0-78cb814d6793,threadfish.ong,available,18.98,24.98,medium,low,10,namecheap,,,18/09/2026 04:49
 981c9440-6513-4852-bc80-ce37820157d2,otic.ong,available,16.99,16.99,medium,low,4,name.com,,,07/08/2026 17:41
 cde122f8-6c04-46d6-b845-55b96e079bd1,tortrix.ong,available,18.98,24.98,medium,low,7,namecheap,,,20/09/2026 05:04
@@ -590,6 +605,7 @@ a9c032b5-8a36-4886-a6f0-7d528935c1ec,busily.ong,available,18.98,24.98,medium,low
 16e7f1ee-ded4-4806-90b4-6ff55c846dca,meditative.ong,available,16.99,16.99,high,low,10,name.com,,,11/08/2026 05:56
 00ee395e-f18e-4185-9293-a258b182a3e4,xii.ong,available,18.98,24.98,high,low,3,namecheap,,,21/09/2026 11:25
 e0881b5d-b859-4aba-b6d1-f66989e9d47f,raptorial.ong,available,18.98,24.98,high,medium,9,namecheap,,,09/09/2026 10:23
+b56fe3f6-135a-4b4b-9cc6-d0ab54ed0efa,pilots.ong,available,18.98,24.98,medium,low,6,namecheap,,,28/09/2026 00:23
 b34f06a4-05a4-4b10-ad03-af7c5a6a3547,airlock.ong,available,18.98,24.98,high,low,7,namecheap,,,17/09/2026 22:33
 d85368ef-31a2-469f-a1e3-292e4b0c0db5,columbine.ong,available,18.98,24.98,medium,low,9,namecheap,,,19/09/2026 23:13
 2f637c33-2328-4196-ab80-7af76f4e447a,tamarack.ong,available,18.98,24.98,medium,low,8,namecheap,,,18/09/2026 20:18
@@ -620,6 +636,7 @@ b16e2a6d-9ec9-4a68-8f29-83879fa193cd,paper.ong,available,16.99,,high,low,5,name.
 a5c6d34e-91b3-41c1-9094-223068fc27db,scar.ong,available,18.98,24.98,high,low,4,namecheap,,,24/09/2026 15:00
 66ed74f7-eb16-44c0-bbea-8d84c8d6a572,billabong.ong,available,18.98,24.98,high,medium,9,namecheap,,,23/09/2026 16:06
 afe055b9-febf-4318-bd72-db5afa4a6da6,taxing.ong,available,16.99,16.99,medium,low,6,name.com,,,11/08/2026 10:33
+35c557b9-9550-4d4d-9d54-66dadf1b932a,ordering.ong,available,18.98,24.98,high,low,8,namecheap,,,27/09/2026 15:05
 5aa2e1d8-ce08-4004-a805-c9d22fc05663,audiology.ong,available,18.98,24.98,high,low,9,namecheap,,,21/09/2026 02:56
 561b5386-c2c6-4ced-bcc2-bc9fecb55604,rhombic.ong,available,16.99,16.99,medium,low,7,name.com,,,09/09/2026 16:43
 7c86449b-42b8-449c-bf42-0b11479aee5e,athena.ong,available,18.98,24.98,high,medium,6,namecheap,,,20/09/2026 20:35
@@ -642,7 +659,7 @@ ed0ec247-44e6-4ba7-a923-1a7e504cf4f3,biosafety.ong,available,18.98,24.98,high,lo
 a07c1b74-396d-421b-814e-df1ae2640be1,bestiality.ong,available,18.98,24.98,medium,low,10,namecheap,,,23/09/2026 10:39
 16654275-3559-4069-885e-5dda6742d3ad,aztecan.ong,available,18.98,24.98,high,low,7,namecheap,,,21/09/2026 11:37
 37af732d-feb5-4950-832d-f90474ca15f8,balinese.ong,available,18.98,24.98,high,low,8,namecheap,,,21/09/2026 22:03
-d4de2fa2-14bf-46e6-bf71-d2e580747c14,agitated.ong,available,16.99,16.99,high,low,8,name.com,,,
+d4de2fa2-14bf-46e6-bf71-d2e580747c14,agitated.ong,available,16.99,16.99,medium,low,8,name.com,,,
 b40db621-ace3-44e6-a102-cac9acea463d,toulouse.ong,available,18.98,24.98,high,low,8,namecheap,,,27/09/2026 05:47
 795686e5-31d5-4fa2-b16a-fced5b03c58f,aristotle.ong,available,18.98,24.98,high,low,9,namecheap,,,20/09/2026 05:59
 acbacc2d-cb04-45f1-aedf-1fb1223a1149,downsizing.ong,available,18.98,24.98,medium,low,10,namecheap,,,24/09/2026 23:41
@@ -666,14 +683,14 @@ d6b9bdf0-8d54-4ef4-b23c-873edcb65daa,seconded.ong,available,18.98,24.98,medium,l
 32088050-c3b9-434a-bd8d-4411b47d96ae,adherence.ong,available,18.98,24.98,high,low,9,namecheap,,,17/09/2026 07:58
 69ed9138-f93d-4ca3-8e41-c7daaa1c9a34,secondary.ong,available,18.98,24.98,high,low,9,namecheap,,,25/09/2026 12:14
 1870e278-12ed-4812-8978-b47334d7a90a,meliorist.ong,available,18.98,24.98,high,medium,9,namecheap,,,09/09/2026 12:46
-e41d72e2-2c66-4819-9676-5c9f6ac34fcc,larder.ong,available,16.99,16.99,high,low,6,name.com,,,11/08/2026 11:56
+e41d72e2-2c66-4819-9676-5c9f6ac34fcc,larder.ong,available,16.99,16.99,medium,low,6,name.com,,,11/08/2026 11:56
 2d3d94e7-c664-4ea2-9d1b-81a4e80105b5,organizations.ong,available,16.99,,medium,low,13,name.com,,,
 df33dc37-8541-45ef-9d86-f3186bc9e94f,archer.ong,available,18.98,24.98,high,low,6,namecheap,,,20/09/2026 01:54
 aaff458c-9f26-40cf-88dc-e5264b7bf239,blase.ong,available,16.99,16.99,medium,low,5,name.com,,,10/08/2026 13:19
 3efe710a-5f5b-48ed-b793-30693c08d6b2,doc.ong,available,18.98,24.98,high,medium,3,namecheap,,,24/09/2026 16:30
 a5e397c7-df81-429f-8cdd-9f2816bc5fd0,rugged.ong,available,16.99,16.99,high,low,6,name.com,,,18/08/2026 18:56
 080b4d26-ede9-4d7d-99fc-ef9ff900b4f3,downwind.ong,available,16.99,16.99,medium,low,8,name.com,,,14/08/2026 18:03
-6f8a8df7-a13c-4822-822b-a392dad9a12f,intestinal.ong,available,18.98,24.98,high,low,10,namecheap,,,04/09/2026 08:14
+6f8a8df7-a13c-4822-822b-a392dad9a12f,intestinal.ong,available,18.98,24.98,medium,low,10,namecheap,,,04/09/2026 08:14
 9cdb3ffd-440e-41c5-9879-66840c37d42c,middlesex.ong,available,18.98,24.98,medium,low,9,namecheap,,,25/09/2026 13:32
 bc1cd9d0-442a-4513-bf8f-d0952afa21f7,ninth.ong,available,16.99,16.99,high,low,5,name.com,,,
 a3057fc2-c49f-4652-b230-1fdfb5a70fd5,rarefy.ong,available,16.99,16.99,medium,low,6,name.com,,,07/08/2026 15:31
@@ -682,8 +699,8 @@ a3057fc2-c49f-4652-b230-1fdfb5a70fd5,rarefy.ong,available,16.99,16.99,medium,low
 65668660-fbb6-440d-ab78-058d375c9dd4,repellent.ong,available,16.99,16.99,medium,low,9,name.com,,,14/08/2026 10:39
 a18c5836-1a2e-4442-95c2-4e4775408acf,joy.ong,available,16.99,,high,medium,3,name.com,,,
 559e9679-f2a3-4475-9d97-bcdf29735c4d,arawn.ong,available,18.98,24.98,medium,low,5,namecheap,,,20/09/2026 00:29
-a402e300-9fee-4a4b-9b59-2e36ebb8cb31,idiomatic.ong,available,16.99,16.99,high,low,9,name.com,,,21/08/2026 18:07
-164c3cbc-44aa-4f41-a289-08ab2c1ea02f,biblical.ong,available,16.99,16.99,high,low,8,name.com,,,09/08/2026 18:53
+a402e300-9fee-4a4b-9b59-2e36ebb8cb31,idiomatic.ong,available,16.99,16.99,medium,low,9,name.com,,,21/08/2026 18:07
+164c3cbc-44aa-4f41-a289-08ab2c1ea02f,biblical.ong,available,16.99,16.99,medium,low,8,name.com,,,09/08/2026 18:53
 2792c421-f8f3-4fda-ad09-df22da4d1261,pinochle.ong,available,16.99,16.99,medium,low,8,name.com,,,23/09/2026 12:19
 17ba37d7-a55a-49a7-b18c-99069bb503de,bleriot.ong,available,18.98,24.98,medium,low,7,namecheap,,,24/09/2026 06:04
 b0ec34a9-6335-4d33-9262-75f432017ff9,arability.ong,available,18.98,24.98,medium,low,9,namecheap,,,19/09/2026 23:32
@@ -742,7 +759,7 @@ ddd881c9-9b07-47ee-835d-2afbb791d63f,tumid.ong,available,16.99,16.99,medium,low,
 af664236-62af-4333-a3be-b32495d4f4f6,hines.ong,available,18.98,24.98,high,low,5,namecheap,,,27/09/2026 07:58
 3860fecd-8262-497d-b720-94fdea020f4e,decorated.ong,available,18.98,24.98,high,low,9,namecheap,,,21/09/2026 19:45
 5c2a0cbd-5ceb-493e-97b8-6dc12d7d1020,sang.ong,available,18.98,24.98,high,low,4,namecheap,,,18/09/2026 20:03
-ce81a503-e21e-4b54-8bd5-42eed3fedb15,believes.ong,available,18.98,24.98,high,low,8,namecheap,,,19/09/2026 19:41
+ce81a503-e21e-4b54-8bd5-42eed3fedb15,believes.ong,available,18.98,24.98,medium,low,8,namecheap,,,19/09/2026 19:41
 0028a3cc-19ba-40ef-8278-c4b64fbc8cd0,stating.ong,available,16.99,,high,low,7,name.com,,,
 a0965a27-844e-4bf6-93b4-2280abb4f78c,arum.ong,available,16.99,16.99,medium,low,4,name.com,,,06/08/2026 20:20
 c1d3626f-886a-4af7-b6b9-8166e5163b92,goofproof.ong,available,16.99,16.99,medium,low,9,name.com,,,18/08/2026 10:41
@@ -752,17 +769,17 @@ e3a1934f-888b-4a84-9f8d-27ebdd3e053b,piddle.ong,available,18.98,24.98,low,low,6,
 1b259746-26e2-44ee-9ba1-bb12da3b4677,understand.ong,available,16.99,,high,low,10,name.com,,,
 9a72ddc9-9744-4a3e-a36d-8e8d8cb324de,stoned.ong,available,18.98,24.98,medium,low,6,namecheap,,,10/09/2026 21:10
 c5523148-f94d-429e-819a-4a2a26cc4b6d,meticulous.ong,available,16.99,16.99,high,low,10,name.com,,,24/08/2026 22:04
-1e2f3815-8083-451b-8079-4f31fc0975ad,pout.ong,available,18.98,24.98,high,low,4,namecheap,,,18/09/2026 18:12
+1e2f3815-8083-451b-8079-4f31fc0975ad,pout.ong,available,18.98,24.98,medium,low,4,namecheap,,,18/09/2026 18:12
 ce1374f3-c2b5-4507-b9ad-0d5b59d2fed6,error.ong,available,18.98,24.98,high,low,5,namecheap,,,24/09/2026 16:56
 cce0ee54-ccb7-4652-a089-fcea79d3478a,vietnamese.ong,available,18.98,24.98,high,low,10,namecheap,,,13/09/2026 05:32
 f4a0e844-ccc7-49f3-a09c-dfc7361c70fe,stand.ong,available,16.99,,high,low,5,name.com,,,
-a4c64590-254a-494d-ae60-b87281631ddb,armour.ong,available,18.98,24.98,high,low,6,namecheap,,,20/09/2026 07:22
+a4c64590-254a-494d-ae60-b87281631ddb,armour.ong,available,18.98,24.98,medium,low,6,namecheap,,,20/09/2026 07:22
 1f796094-b2cb-43cc-9121-5bf4c6a9e49a,spending.ong,available,18.98,24.98,high,low,8,namecheap,,,27/09/2026 03:51
 3c043454-1cf2-49b3-8e22-ca8c9ecdca87,briny.ong,available,16.99,16.99,medium,low,5,name.com,,,11/08/2026 04:25
 5b9f82cf-873b-4277-8b28-fd2b268c564a,aperture.ong,available,18.98,24.98,high,low,8,namecheap,,,19/09/2026 16:35
 5ee61a65-6c56-458f-9491-554da9310670,height.ong,available,18.98,24.98,high,low,6,namecheap,,,25/09/2026 19:39
 577d8fc7-2edc-4b3d-89eb-3e1dc2f19994,nomadic.ong,available,16.99,16.99,high,low,7,name.com,,,25/08/2026 02:19
-cb653f37-04e2-47f1-9344-aab5b2f34403,thee.ong,available,16.99,,high,low,4,name.com,,,
+cb653f37-04e2-47f1-9344-aab5b2f34403,thee.ong,available,16.99,,medium,low,4,name.com,,,
 ac4e0a28-97f5-433c-8ac0-08300f40a9f0,sculptural.ong,available,16.99,16.99,high,low,10,name.com,,,25/08/2026 02:53
 8f34afe3-f088-411e-aa56-93a70f46871d,stellar.ong,available,18.98,24.98,high,medium,7,namecheap,,,22/09/2026 10:32
 144c64b0-af3d-44c0-a78f-3c1486ec64f1,debt.ong,available,16.99,,high,low,4,name.com,,,
@@ -772,7 +789,7 @@ ac4e0a28-97f5-433c-8ac0-08300f40a9f0,sculptural.ong,available,16.99,16.99,high,l
 248a1fc1-cfb6-49c5-b3b8-377b0fc97980,doable.ong,available,18.98,24.98,high,low,6,namecheap,,,21/09/2026 15:46
 ece68de4-3681-4cfd-a437-1e886ed29061,kochia.ong,available,18.98,24.98,medium,low,6,namecheap,,,22/09/2026 12:18
 ab29aabf-f9aa-4b42-9914-fb609f49f666,canvas.ong,available,18.98,24.98,high,medium,6,namecheap,,,24/09/2026 12:10
-8ab5863f-a0fb-41db-920c-1078b0d9c628,purposive.ong,available,16.99,16.99,high,low,9,name.com,,,20/08/2026 15:51
+8ab5863f-a0fb-41db-920c-1078b0d9c628,purposive.ong,available,16.99,16.99,medium,low,9,name.com,,,20/08/2026 15:51
 241be7c6-d6f3-4a62-afbc-a121f3e9c6df,motel.ong,available,18.98,24.98,high,low,5,namecheap,,,25/09/2026 09:27
 c080fb66-ab4a-43e0-941f-3c69004c3fdc,barbette.ong,available,18.98,24.98,medium,low,8,namecheap,,,22/09/2026 04:54
 2631df75-88d8-4893-ad28-97bdd87bea12,consummate.ong,available,18.98,24.98,high,low,10,namecheap,,,23/09/2026 21:29
@@ -805,7 +822,7 @@ b2ef0485-9ef0-4988-945e-48bc8cde7856,gide.ong,available,16.99,16.99,high,low,4,n
 329a35df-922b-4c55-b764-0aa750805ce7,speaks.ong,available,18.98,24.98,medium,low,6,namecheap,,,16/09/2026 07:20
 82009c40-92d4-4712-a36b-1a1ba17f4e05,aweigh.ong,available,16.99,16.99,low,low,6,name.com,,,07/08/2026 14:29
 655672f5-4b1f-48a0-98d4-2fd127ecb479,euphonious.ong,available,16.99,16.99,medium,low,10,name.com,,,17/08/2026 14:17
-ae839a4f-2663-43fe-9f81-43dd31e8302d,salt.ong,available,16.99,,high,low,4,name.com,,,
+ae839a4f-2663-43fe-9f81-43dd31e8302d,salt.ong,available,15.96,15.96,high,medium,4,porkbun,,,27/09/2026 17:50
 855d4072-874f-45fe-84f1-86d62af2fdde,alienating.ong,available,16.99,16.99,medium,low,10,name.com,,,
 82010012-c792-4c64-a544-cd9f007a4bce,canadian.ong,available,18.98,24.98,high,low,8,namecheap,,,23/09/2026 12:40
 8263e8b4-4418-44eb-8ea1-1fdf06c64fd6,computer.ong,premium,65,32.5,high,medium,8,namecheap,,,23/09/2026 09:10
@@ -816,10 +833,9 @@ b761e143-47e6-41a8-9ee8-b4614e204a6c,blackface.ong,available,18.98,24.98,medium,
 da382336-8d93-4b39-8701-cf1dd255bf3d,chap.ong,available,18.98,24.98,medium,low,4,namecheap,,,24/09/2026 06:13
 d85813b2-2d08-4115-85b2-3e569c5e345a,acadian.ong,available,18.98,24.98,high,low,7,namecheap,,,16/09/2026 20:29
 1bc8c138-d5ba-44f4-96a7-bea6456d36c8,sniff.ong,available,16.99,,high,low,5,name.com,,,
-cd2fb943-42e4-40c7-af32-ddacf19cace9,ripe.ong,available,,,high,low,4,,,,
 6af66693-65e9-44d9-bd83-fc04fc1da4c9,violently.ong,available,18.98,24.98,medium,low,9,namecheap,,,16/09/2026 11:00
 2a560909-0496-400e-88b2-a40cc71135e6,outside.ong,available,18.98,24.98,high,low,7,namecheap,,,21/09/2026 23:49
-694c341c-e3bd-4576-b858-379d2742874c,phonic.ong,available,18.98,24.98,high,low,6,namecheap,,,08/09/2026 19:06
+694c341c-e3bd-4576-b858-379d2742874c,phonic.ong,available,18.98,24.98,medium,low,6,namecheap,,,08/09/2026 19:06
 6fea7086-934d-41b0-a7c0-fccea1fa88ab,wistful.ong,available,18.98,24.98,high,low,7,namecheap,,,13/09/2026 12:45
 2cf7ba0e-d31b-46c5-8e84-7d7815981f54,sneak.ong,available,18.98,24.98,high,low,5,namecheap,,,23/09/2026 12:44
 50465f27-8af4-4228-b8e1-7599b814e5f9,aldol.ong,available,18.98,24.98,high,low,5,namecheap,,,18/09/2026 04:25
@@ -829,7 +845,7 @@ cd2fb943-42e4-40c7-af32-ddacf19cace9,ripe.ong,available,,,high,low,4,,,,
 c3056bb5-4a5f-4fee-b07f-eccc15338de2,cutthroat.ong,available,16.99,16.99,high,medium,9,name.com,,,10/08/2026 23:02
 101f8942-f0cc-4349-8ae3-e31c9bcddb40,marguerite.ong,available,18.98,24.98,high,low,10,namecheap,,,20/09/2026 04:58
 93ae8898-7373-46e2-8c5b-c66969e7686f,gingery.ong,available,16.99,16.99,high,low,7,name.com,,,18/08/2026 23:53
-3dc5ac85-ddc5-41b6-9f62-336ef5d0d8be,platt.ong,available,18.98,24.98,high,low,5,namecheap,,,27/09/2026 06:33
+3dc5ac85-ddc5-41b6-9f62-336ef5d0d8be,platt.ong,available,18.98,24.98,medium,low,5,namecheap,,,27/09/2026 06:33
 07b4aa8b-f07f-47f5-9f2d-f4c148fc0a6a,lightweight.ong,available,16.99,,high,low,11,name.com,,,
 94bd1283-6748-49c1-acda-8c6bf8137d60,reliant.ong,available,18.98,24.98,high,low,7,namecheap,,,09/09/2026 13:35
 47f256bf-b275-4e40-8f36-b250b26cbce5,columbo.ong,available,18.98,24.98,medium,low,7,namecheap,,,18/09/2026 19:32
@@ -837,12 +853,15 @@ c3056bb5-4a5f-4fee-b07f-eccc15338de2,cutthroat.ong,available,16.99,16.99,high,me
 0e4306a5-b0bc-492e-890e-0292cea38a8c,grumpy.ong,available,16.99,16.99,medium,low,6,name.com,,,08/08/2026 07:57
 483dbabd-260c-40a3-93ba-ef6cfafa0f8b,downcast.ong,available,16.99,16.99,medium,low,8,name.com,,,14/08/2026 17:33
 9086816c-0d69-45e3-b3cc-54de06002c46,sobering.ong,available,18.98,24.98,high,medium,8,namecheap,,,10/09/2026 13:02
+2c9745d0-a76a-4f0b-9c2a-54e2de6c5af9,kingsley.ong,available,15.2,15.2,medium,low,8,cloudflare,,,27/09/2026 20:56
 2515dbad-da1f-49c4-92ec-44c548334f97,stamford.ong,available,18.98,24.98,high,low,8,namecheap,,,25/09/2026 16:33
 5eeb4b26-45b1-4e5a-b66d-8c65ec200580,burdensome.ong,available,16.99,16.99,medium,low,10,name.com,,,11/08/2026 10:29
+f7ecf3bb-f240-4ca7-be67-c6f245ed80ed,shrewsbury.ong,available,18.98,24.98,medium,low,10,namecheap,,,27/09/2026 19:32
 5010459a-e4ff-4d09-af23-e39015c6992e,exigent.ong,available,16.99,16.99,medium,low,7,name.com,,,13/08/2026 09:31
 85b57d62-3d00-4c9a-b106-ce04b82e2910,kwhr.ong,available,18.98,24.98,high,low,5,namecheap,,,21/09/2026 11:57
 a86ed935-dc3a-4bdb-ac96-e2f7aed56ee3,smitten.ong,available,16.99,16.99,high,low,7,name.com,,,16/08/2026 21:16
 3efa33e8-2af5-41ec-bae7-6297015dab9b,parochial.ong,available,18.98,24.98,high,low,9,namecheap,,,08/09/2026 01:46
+15bfd769-14aa-400a-9a9c-4e2adb418e27,hurting.ong,available,16.72,16.72,medium,low,7,dynadot,,,27/09/2026 14:14
 7a2ec081-0409-493d-8dda-c76554417587,tierce.ong,available,16.99,16.99,medium,low,6,name.com,,,
 c8450b7d-e125-4dd7-bf80-fe636e532f8c,bavaria.ong,available,18.98,24.98,high,low,7,namecheap,,,22/09/2026 16:42
 aa9e1aad-f363-4e97-8050-154ad6c2503b,downmarket.ong,available,16.99,16.99,medium,low,10,name.com,,,14/08/2026 17:48
@@ -855,11 +874,11 @@ d6456dd3-60b6-4fca-ac36-5e46361d5084,lunched.ong,available,18.98,24.98,medium,lo
 b081c641-1e47-4dcf-af37-8020bd2eff88,lactating.ong,available,16.99,16.99,medium,low,9,name.com,,,22/08/2026 18:18
 07a1a0ad-ae17-41f2-a4f3-f40783ef405b,helped.ong,available,18.98,24.98,high,low,6,namecheap,,,25/09/2026 18:33
 ca514ebf-3cf9-48de-bd7b-a0f7a417d6c4,didrikson.ong,available,18.98,24.98,medium,low,9,namecheap,,,21/09/2026 12:34
-2c9ee3c1-758e-4974-b2ea-fc75ae7381fe,gustav.ong,available,18.98,24.98,high,low,6,namecheap,,,25/09/2026 21:40
+2c9ee3c1-758e-4974-b2ea-fc75ae7381fe,gustav.ong,available,18.98,24.98,medium,low,6,namecheap,,,25/09/2026 21:40
 e630e9f0-3b1b-42ed-8728-1a6882c53452,martha.ong,available,16.99,,high,low,6,name.com,,,
 c9334dda-31e7-4b37-b8d5-b6e75e5636d1,haunting.ong,available,16.99,16.99,medium,low,8,name.com,,,21/08/2026 01:34
 de5ec963-68d4-4414-92b6-f68f981fb062,uncritical.ong,available,18.98,24.98,medium,low,10,namecheap,,,12/09/2026 06:26
-de37aba0-4c90-487e-b9c3-ec0ee5894b9e,asymmetry.ong,available,18.98,24.98,high,low,9,namecheap,,,20/09/2026 18:39
+de37aba0-4c90-487e-b9c3-ec0ee5894b9e,asymmetry.ong,available,18.98,24.98,medium,low,9,namecheap,,,20/09/2026 18:39
 a5064a6c-a899-4f01-b078-c8ccb85b9654,fcc.ong,available,16.99,16.99,high,low,3,name.com,,,25/09/2026 05:53
 693a3ee3-2355-4c12-a107-46ab8f889d79,mournfully.ong,available,18.98,24.98,medium,low,10,namecheap,,,15/09/2026 15:33
 86a5b7d8-b02e-49a5-b91c-5482aa5a7ec2,unerasable.ong,available,16.99,16.99,medium,low,10,name.com,,,22/08/2026 02:39
@@ -879,7 +898,7 @@ bf3c5ce9-4227-4d77-abb0-375fcc6b438a,xcvi.ong,available,16.99,16.99,medium,low,4
 312c765d-d7fa-4dd7-8e68-bc5ec60ebd94,crumb.ong,available,16.99,16.99,medium,low,5,name.com,,,11/08/2026 09:20
 03688646-9c5c-4fc6-87e8-1a7f38dbf110,midst.ong,available,16.99,16.99,medium,low,5,name.com,,,11/09/2026 13:11
 44c400de-d55d-4d7a-b2b3-b0cf15f17a10,frightened.ong,available,16.99,16.99,medium,low,10,name.com,,,18/08/2026 15:37
-4358a0db-0435-4f4b-9528-6e6826dd28ca,experimentation.ong,available,18.98,24.98,high,low,15,namecheap,,,25/09/2026 14:37
+4358a0db-0435-4f4b-9528-6e6826dd28ca,experimentation.ong,available,18.98,24.98,medium,low,15,namecheap,,,25/09/2026 14:37
 932cb4e8-aa14-4581-9f02-e319290a1a3f,tournament.ong,available,18.98,24.98,high,low,10,namecheap,,,27/09/2026 05:49
 a6ddec49-31cf-4164-80cf-48aae26cf5a3,atropa.ong,available,18.98,24.98,medium,low,6,namecheap,,,21/09/2026 00:54
 dc41d145-0117-4a87-bd3c-f2bf462a91e4,expedition.ong,available,16.99,,high,low,10,name.com,,,
@@ -889,7 +908,7 @@ ca93b151-c2e0-40be-9482-273b7dc897da,soh.ong,available,18.98,24.98,medium,low,3,
 c0a5c5d3-c343-4496-b584-b81191f7ae97,consumer.ong,available,16.99,,high,low,8,name.com,,,
 929f8fce-b159-4263-b320-35397320e710,enatic.ong,available,16.99,16.99,medium,low,6,name.com,,,16/08/2026 21:20
 72350203-1c82-45a7-af49-ed9fb81e926c,offline.ong,available,18.98,24.98,high,medium,8,namecheap,,,04/09/2026 01:13
-a149fad8-d8ee-4a0b-a8a0-f39730a8c28d,standing.ong,available,16.99,,high,low,8,name.com,,,
+a149fad8-d8ee-4a0b-a8a0-f39730a8c28d,standing.ong,available,15.2,15.2,high,low,8,cloudflare,,,28/09/2026 00:41
 2553411f-4f8d-4204-a1cd-5450b2a91d5d,twat.ong,available,18.98,24.98,high,medium,4,namecheap,,,09/09/2026 06:41
 7d5f4eb8-861b-47c0-920b-45c68e255899,broth.ong,available,18.98,24.98,high,low,5,namecheap,,,24/09/2026 10:49
 6af73c11-f5c9-46af-b8d9-14bacd29426a,lloyd.ong,available,18.98,24.98,high,low,5,namecheap,,,25/09/2026 06:57
@@ -901,7 +920,8 @@ d14d03fd-1f9b-469f-94fe-9363580d58a3,auger.ong,available,18.98,24.98,medium,low,
 64ba5e0c-986b-4bcc-bdc9-998ccc746855,vic.ong,available,18.98,24.98,high,medium,3,namecheap,,,25/09/2026 12:29
 18eaa105-f6c8-4f48-a428-7c3f91be3db4,pregnant.ong,premium,650,325,high,low,8,namecheap,,,25/09/2026 18:23
 90a574b9-7441-4b6b-a5ea-ec08b4c39aa9,radically.ong,available,18.98,24.98,medium,low,9,namecheap,,,15/09/2026 22:20
-5c8977df-4cc2-4d2a-bccd-1da7164b3d54,bandung.ong,available,18.98,24.98,high,low,7,namecheap,,,22/09/2026 01:32
+5c8977df-4cc2-4d2a-bccd-1da7164b3d54,bandung.ong,available,18.98,24.98,medium,low,7,namecheap,,,22/09/2026 01:32
+97e66834-7957-45c6-8e0a-4f0e842b3456,vhf.ong,available,18.98,24.98,high,low,3,namecheap,,,28/09/2026 02:03
 6a54071f-2804-4d7a-abc8-d71b89192dc1,elective.ong,available,16.99,16.99,high,low,8,name.com,,,16/08/2026 02:33
 880ea66a-2d7f-4518-8eeb-f91708b26c98,gush.ong,available,16.99,16.99,high,low,4,name.com,,,22/08/2026 13:07
 078a85d7-d780-4da6-a616-77518eab8949,philippine.ong,available,16.99,16.99,high,low,10,name.com,,,18/08/2026 04:21
@@ -922,7 +942,7 @@ b076be13-7e94-4615-9922-566aea28bb43,yule.ong,available,18.98,24.98,high,low,4,n
 00845b99-442a-4d56-97b5-72a849f0448b,diseased.ong,available,16.99,16.99,medium,low,8,name.com,,,14/08/2026 10:08
 f66ee635-f668-4252-8e46-3730e5a8f6e8,marihuana.ong,available,16.99,,high,low,9,name.com,,,
 b92f812b-ad33-4673-a9a2-5faf73d6be77,stay.ong,available,18.98,24.98,high,low,4,namecheap,,,24/09/2026 23:21
-95584fd1-a5eb-4f1c-8d68-ecc0760b30b2,dorothy.ong,available,18.98,24.98,high,low,7,namecheap,,,25/09/2026 14:18
+95584fd1-a5eb-4f1c-8d68-ecc0760b30b2,dorothy.ong,available,18.98,24.98,medium,low,7,namecheap,,,25/09/2026 14:18
 af249c47-90b5-4359-b44f-1b5709f2774b,sagely.ong,available,18.98,24.98,medium,low,6,namecheap,,,16/09/2026 00:31
 54476630-837c-42ed-ae9d-4772fa555299,auroral.ong,available,18.98,24.98,high,low,7,namecheap,,,22/09/2026 13:08
 e3c867a5-3423-44b9-b6af-8aab1ef50a76,appalachia.ong,available,18.98,24.98,medium,low,10,namecheap,,,19/09/2026 19:44
@@ -934,7 +954,7 @@ d48ee7cc-7b79-4b8d-a6a3-fab0aef43c41,boehme.ong,available,18.98,24.98,medium,low
 b985d61b-d426-43e7-b724-ed45e23d22d0,tetragon.ong,available,16.99,16.99,medium,low,8,name.com,,,09/09/2026 07:24
 71b1be6d-7a97-4104-accf-4cf008d365e7,aleatory.ong,available,16.99,16.99,medium,low,8,name.com,,,
 841df417-c9b4-4af6-854d-470b5d8a465e,planar.ong,available,18.98,24.98,high,low,6,namecheap,,,08/09/2026 20:37
-e078b759-be7f-4d9e-ba72-a992df68bd66,fading.ong,available,18.98,24.98,high,low,6,namecheap,,,21/09/2026 01:33
+e078b759-be7f-4d9e-ba72-a992df68bd66,fading.ong,available,18.98,24.98,medium,low,6,namecheap,,,21/09/2026 01:33
 583e53eb-59d0-465a-999f-44addb0f27bd,jung.ong,available,18.98,24.98,high,low,4,namecheap,,,25/09/2026 03:59
 befec941-197d-4e72-a05c-4c102bc94ebb,starts.ong,available,16.99,,medium,low,6,name.com,,,
 2a940274-0565-40e1-b2c5-4ac362331735,apocalypse.ong,available,18.98,24.98,medium,low,10,namecheap,,,19/09/2026 18:10
@@ -967,35 +987,15 @@ c96bec90-837f-415e-affc-b3d59bc9a8d7,saman.ong,available,18.98,24.98,high,low,5,
 1db79ce0-fdb9-4526-be76-757476549e87,tutu.ong,available,18.98,24.98,high,low,4,namecheap,,,21/09/2026 22:53
 d28f5733-8a47-4f58-9609-9e47a942bbeb,guns.ong,available,18.98,24.98,high,low,4,namecheap,,,17/09/2026 07:29
 0e77bfb0-672c-4f51-a2cf-1f57b6b71623,apiarist.ong,available,18.98,24.98,medium,low,8,namecheap,,,19/09/2026 17:19
-f956fd2e-0794-4043-90c4-94099e34d273,bygone.ong,available,16.99,16.99,high,low,6,name.com,,,11/08/2026 12:06
-4163d2ee-6bfb-4a7f-8e4f-897d1745c7f0,checkered.ong,available,16.99,16.99,high,low,9,name.com,,,12/08/2026 03:38
-d477e6d3-979d-4d7a-a717-f14c01f9e0fd,microbial.ong,available,18.98,24.98,high,low,9,namecheap,,,08/09/2026 09:41
+f956fd2e-0794-4043-90c4-94099e34d273,bygone.ong,available,16.99,16.99,medium,low,6,name.com,,,11/08/2026 12:06
+4163d2ee-6bfb-4a7f-8e4f-897d1745c7f0,checkered.ong,available,16.99,16.99,medium,low,9,name.com,,,12/08/2026 03:38
+d477e6d3-979d-4d7a-a717-f14c01f9e0fd,microbial.ong,available,18.98,24.98,medium,low,9,namecheap,,,08/09/2026 09:41
 98402f72-8063-4078-ad5d-8239026b7e6e,whereas.ong,available,16.99,,high,low,7,name.com,,,
 1e383dae-eee5-4d71-96e7-c9c9e68c468b,squandered.ong,available,16.99,16.99,medium,low,10,name.com,,,10/09/2026 17:24
 494aee7a-491f-417b-bdea-bddea0adb8c3,judaic.ong,available,16.99,16.99,medium,low,6,name.com,,,22/08/2026 13:17
 fa88c0b9-bb9d-46fa-955e-14769a9c47d3,area.ong,available,16.99,,high,low,4,name.com,,,
-aa20140c-959b-4628-b594-d6c2d263c96a,relapse.ong,available,16.99,,high,low,7,name.com,,,
+aa20140c-959b-4628-b594-d6c2d263c96a,relapse.ong,available,16.72,16.72,high,low,7,dynadot,,,27/09/2026 14:29
 841d2980-cdb5-4359-aaf9-a37059ad3150,perdurable.ong,available,18.98,24.98,medium,low,10,namecheap,,,08/09/2026 16:24
 b7fe6f2c-6ddf-41bb-8ec0-30186d585a5e,azores.ong,available,18.98,24.98,medium,low,6,namecheap,,,17/09/2026 02:13
-6bbaecce-631f-4f29-ab7a-085481ab6f53,slim.ong,available,16.99,,high,low,4,name.com,,,
+6bbaecce-631f-4f29-ab7a-085481ab6f53,slim.ong,available,15.2,15.2,high,low,4,cloudflare,,,27/09/2026 22:35
 fd4bb76c-04ad-49f4-8c53-daac1ff75eae,inlaid.ong,available,16.99,16.99,medium,low,6,name.com,,,22/08/2026 05:47
-2dcf3c68-f088-47f8-b268-b9609ea54f05,ardennes.ong,available,18.98,24.98,medium,low,8,namecheap,,,20/09/2026 03:09
-610ee036-45e4-4534-814b-346218bd71eb,admissible.ong,available,16.99,16.99,high,low,10,name.com,,,
-d177062c-01e9-491b-8b02-8afd575b00d0,louche.ong,available,16.99,16.99,medium,low,6,name.com,,,24/08/2026 10:02
-a69e9f2c-b561-4611-9fda-a3c9a74b62d5,anglian.ong,available,18.98,24.98,high,low,7,namecheap,,,19/09/2026 06:48
-ea03e1e6-d71e-42cc-8921-b5e9b9a9c6e1,winy.ong,available,18.98,24.98,medium,low,4,namecheap,,,13/09/2026 12:25
-c82cbff3-6d77-45db-9d8f-0187dc6a5797,learnedly.ong,available,18.98,24.98,medium,low,9,namecheap,,,14/09/2026 16:04
-9b600b4a-9d88-4c96-acb0-32d24a7aeb54,countable.ong,available,16.99,16.99,high,low,9,name.com,,,13/08/2026 03:28
-271d4ad4-1e9d-4bff-a4a2-65171d6f5b8d,bitterness.ong,available,18.98,24.98,medium,low,10,namecheap,,,17/09/2026 03:08
-a96b547f-6aeb-4402-8aaa-db3ccf234fec,lunt.ong,available,18.98,24.98,medium,low,4,namecheap,,,18/09/2026 06:40
-093531cb-792f-44f8-8f94-969b63f8feb9,livery.ong,available,16.99,16.99,high,low,6,name.com,,,24/08/2026 08:06
-9b90d5cd-1a21-422c-9304-65baa3bbc18c,plans.ong,available,16.99,,high,low,5,name.com,,,
-119f91c1-b0d7-413b-9cce-23b4aa7dcd18,cva.ong,available,18.98,24.98,medium,low,3,namecheap,,,19/09/2026 19:12
-fe2d39ba-80af-43c3-83af-0f9a0eae7012,distributions.ong,available,18.98,24.98,medium,low,13,namecheap,,,25/09/2026 21:52
-75140bf1-31d3-4964-a260-abc6b4db8a22,wisconsin.ong,available,18.98,24.98,high,low,9,namecheap,,,21/09/2026 17:10
-01b54fb4-d848-431e-9aa3-fbfd85abe31c,counterfeits.ong,available,18.98,24.98,low,low,12,namecheap,,,19/09/2026 21:40
-8ee68ad1-808c-415d-b454-246b5897c0ca,lutzen.ong,available,18.98,24.98,medium,low,6,namecheap,,,22/09/2026 15:24
-0b869ea2-ebb3-463f-a878-40c4977808fe,backhoe.ong,available,18.98,24.98,high,low,7,namecheap,,,21/09/2026 15:37
-5c1f034e-8240-4fba-8873-ea60b15e72db,precursory.ong,available,18.98,24.98,high,medium,10,namecheap,,,09/09/2026 01:20
-0f54b31e-8f61-4fb9-bb07-b7db351e33c7,colourless.ong,available,16.99,16.99,medium,low,10,name.com,,,12/08/2026 17:55
-f24f70e0-e08d-4ad4-bae8-b2020db59006,broadside.ong,available,16.99,16.99,high,low,9,name.com,,,11/08/2026 05:04
